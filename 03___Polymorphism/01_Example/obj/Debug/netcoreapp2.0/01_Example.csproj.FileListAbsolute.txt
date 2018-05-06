@@ -1,0 +1,11 @@
+F:\VS\exercise\01___Polymorphism\01_Example\bin\Debug\netcoreapp2.0\01_Example.deps.json
+F:\VS\exercise\01___Polymorphism\01_Example\bin\Debug\netcoreapp2.0\01_Example.runtimeconfig.json
+F:\VS\exercise\01___Polymorphism\01_Example\bin\Debug\netcoreapp2.0\01_Example.runtimeconfig.dev.json
+F:\VS\exercise\01___Polymorphism\01_Example\bin\Debug\netcoreapp2.0\01_Example.dll
+F:\VS\exercise\01___Polymorphism\01_Example\bin\Debug\netcoreapp2.0\01_Example.pdb
+F:\VS\exercise\01___Polymorphism\01_Example\obj\Debug\netcoreapp2.0\01_Example.csprojResolveAssemblyReference.cache
+F:\VS\exercise\01___Polymorphism\01_Example\obj\Debug\netcoreapp2.0\01_Example.csproj.CoreCompileInputs.cache
+F:\VS\exercise\01___Polymorphism\01_Example\obj\Debug\netcoreapp2.0\01_Example.AssemblyInfoInputs.cache
+F:\VS\exercise\01___Polymorphism\01_Example\obj\Debug\netcoreapp2.0\01_Example.AssemblyInfo.cs
+F:\VS\exercise\01___Polymorphism\01_Example\obj\Debug\netcoreapp2.0\01_Example.dll
+F:\VS\exercise\01___Polymorphism\01_Example\obj\Debug\netcoreapp2.0\01_Example.pdb
