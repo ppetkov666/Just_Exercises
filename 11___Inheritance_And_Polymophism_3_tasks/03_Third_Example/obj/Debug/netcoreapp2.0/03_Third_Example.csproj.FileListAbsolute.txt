@@ -1,0 +1,11 @@
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\bin\Debug\netcoreapp2.0\03_Third_Example.deps.json
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\bin\Debug\netcoreapp2.0\03_Third_Example.runtimeconfig.json
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\bin\Debug\netcoreapp2.0\03_Third_Example.runtimeconfig.dev.json
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\bin\Debug\netcoreapp2.0\03_Third_Example.dll
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\bin\Debug\netcoreapp2.0\03_Third_Example.pdb
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\obj\Debug\netcoreapp2.0\03_Third_Example.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\obj\Debug\netcoreapp2.0\03_Third_Example.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\obj\Debug\netcoreapp2.0\03_Third_Example.AssemblyInfoInputs.cache
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\obj\Debug\netcoreapp2.0\03_Third_Example.AssemblyInfo.cs
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\obj\Debug\netcoreapp2.0\03_Third_Example.dll
+F:\VS\GITHUB\00___Exersize\10_Inheritance_And_Polymophism\03_Third_Example\obj\Debug\netcoreapp2.0\03_Third_Example.pdb
