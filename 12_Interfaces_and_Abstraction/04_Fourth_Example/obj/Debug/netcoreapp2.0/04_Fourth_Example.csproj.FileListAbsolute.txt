@@ -1,0 +1,11 @@
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\bin\Debug\netcoreapp2.0\04_Fourth_Example.deps.json
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\bin\Debug\netcoreapp2.0\04_Fourth_Example.runtimeconfig.json
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\bin\Debug\netcoreapp2.0\04_Fourth_Example.runtimeconfig.dev.json
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\bin\Debug\netcoreapp2.0\04_Fourth_Example.dll
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\bin\Debug\netcoreapp2.0\04_Fourth_Example.pdb
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\obj\Debug\netcoreapp2.0\04_Fourth_Example.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\obj\Debug\netcoreapp2.0\04_Fourth_Example.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\obj\Debug\netcoreapp2.0\04_Fourth_Example.AssemblyInfoInputs.cache
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\obj\Debug\netcoreapp2.0\04_Fourth_Example.AssemblyInfo.cs
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\obj\Debug\netcoreapp2.0\04_Fourth_Example.dll
+F:\VS\GITHUB\00___Exersize\12_Interfaces_and_Abstraction\04_Fourth_Example\obj\Debug\netcoreapp2.0\04_Fourth_Example.pdb
