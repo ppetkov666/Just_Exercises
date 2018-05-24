@@ -1,0 +1,9 @@
+F:\VS\GITHUB\00___Exersize\Exersize\MyTestLibrary\bin\Debug\netcoreapp2.0\MyTestLibrary.deps.json
+F:\VS\GITHUB\00___Exersize\Exersize\MyTestLibrary\bin\Debug\netcoreapp2.0\MyTestLibrary.dll
+F:\VS\GITHUB\00___Exersize\Exersize\MyTestLibrary\bin\Debug\netcoreapp2.0\MyTestLibrary.pdb
+F:\VS\GITHUB\00___Exersize\Exersize\MyTestLibrary\obj\Debug\netcoreapp2.0\MyTestLibrary.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\00___Exersize\Exersize\MyTestLibrary\obj\Debug\netcoreapp2.0\MyTestLibrary.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\00___Exersize\Exersize\MyTestLibrary\obj\Debug\netcoreapp2.0\MyTestLibrary.AssemblyInfoInputs.cache
+F:\VS\GITHUB\00___Exersize\Exersize\MyTestLibrary\obj\Debug\netcoreapp2.0\MyTestLibrary.AssemblyInfo.cs
+F:\VS\GITHUB\00___Exersize\Exersize\MyTestLibrary\obj\Debug\netcoreapp2.0\MyTestLibrary.dll
+F:\VS\GITHUB\00___Exersize\Exersize\MyTestLibrary\obj\Debug\netcoreapp2.0\MyTestLibrary.pdb

@@ -1,0 +1,14 @@
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\bin\Debug\netcoreapp2.0\02_Second_Example.deps.json
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\bin\Debug\netcoreapp2.0\02_Second_Example.runtimeconfig.json
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\bin\Debug\netcoreapp2.0\02_Second_Example.runtimeconfig.dev.json
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\bin\Debug\netcoreapp2.0\02_Second_Example.dll
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\bin\Debug\netcoreapp2.0\02_Second_Example.pdb
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\obj\Debug\netcoreapp2.0\02_Second_Example.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\obj\Debug\netcoreapp2.0\02_Second_Example.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\obj\Debug\netcoreapp2.0\02_Second_Example.AssemblyInfoInputs.cache
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\obj\Debug\netcoreapp2.0\02_Second_Example.AssemblyInfo.cs
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\obj\Debug\netcoreapp2.0\02_Second_Example.dll
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\obj\Debug\netcoreapp2.0\02_Second_Example.pdb
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\bin\Debug\netcoreapp2.0\MyTestLibrary.dll
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\bin\Debug\netcoreapp2.0\MyTestLibrary.pdb
+F:\VS\GITHUB\00___Exersize\Exersize\02_Second_Example\obj\Debug\netcoreapp2.0\02_Second_Example.csproj.CopyComplete
