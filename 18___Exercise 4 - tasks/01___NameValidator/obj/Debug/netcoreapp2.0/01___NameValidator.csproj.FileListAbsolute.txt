@@ -1,0 +1,11 @@
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\bin\Debug\netcoreapp2.0\01___NameValidator.deps.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\bin\Debug\netcoreapp2.0\01___NameValidator.runtimeconfig.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\bin\Debug\netcoreapp2.0\01___NameValidator.runtimeconfig.dev.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\bin\Debug\netcoreapp2.0\01___NameValidator.dll
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\bin\Debug\netcoreapp2.0\01___NameValidator.pdb
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\obj\Debug\netcoreapp2.0\01___NameValidator.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\obj\Debug\netcoreapp2.0\01___NameValidator.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\obj\Debug\netcoreapp2.0\01___NameValidator.AssemblyInfoInputs.cache
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\obj\Debug\netcoreapp2.0\01___NameValidator.AssemblyInfo.cs
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\obj\Debug\netcoreapp2.0\01___NameValidator.dll
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\01___NameValidator\obj\Debug\netcoreapp2.0\01___NameValidator.pdb

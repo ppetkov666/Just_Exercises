@@ -1,0 +1,10 @@
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\bin\Debug\netcoreapp2.0\02___CusttomRegex.deps.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\bin\Debug\netcoreapp2.0\02___CusttomRegex.runtimeconfig.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\bin\Debug\netcoreapp2.0\02___CusttomRegex.runtimeconfig.dev.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\bin\Debug\netcoreapp2.0\02___CusttomRegex.dll
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\bin\Debug\netcoreapp2.0\02___CusttomRegex.pdb
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\obj\Debug\netcoreapp2.0\02___CusttomRegex.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\obj\Debug\netcoreapp2.0\02___CusttomRegex.AssemblyInfoInputs.cache
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\obj\Debug\netcoreapp2.0\02___CusttomRegex.AssemblyInfo.cs
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\obj\Debug\netcoreapp2.0\02___CusttomRegex.dll
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\02___CusttomRegex\obj\Debug\netcoreapp2.0\02___CusttomRegex.pdb

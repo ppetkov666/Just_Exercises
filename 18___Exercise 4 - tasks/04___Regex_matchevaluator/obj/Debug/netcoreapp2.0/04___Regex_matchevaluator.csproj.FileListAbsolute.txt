@@ -1,0 +1,10 @@
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\bin\Debug\netcoreapp2.0\04___Regex_matchevaluator.deps.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\bin\Debug\netcoreapp2.0\04___Regex_matchevaluator.runtimeconfig.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\bin\Debug\netcoreapp2.0\04___Regex_matchevaluator.runtimeconfig.dev.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\bin\Debug\netcoreapp2.0\04___Regex_matchevaluator.dll
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\bin\Debug\netcoreapp2.0\04___Regex_matchevaluator.pdb
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\obj\Debug\netcoreapp2.0\04___Regex_matchevaluator.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\obj\Debug\netcoreapp2.0\04___Regex_matchevaluator.AssemblyInfoInputs.cache
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\obj\Debug\netcoreapp2.0\04___Regex_matchevaluator.AssemblyInfo.cs
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\obj\Debug\netcoreapp2.0\04___Regex_matchevaluator.dll
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\04___Regex_matchevaluator\obj\Debug\netcoreapp2.0\04___Regex_matchevaluator.pdb

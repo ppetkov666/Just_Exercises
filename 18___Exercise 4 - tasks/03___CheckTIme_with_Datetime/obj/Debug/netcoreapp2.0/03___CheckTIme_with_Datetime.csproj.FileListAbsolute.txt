@@ -1,0 +1,10 @@
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\bin\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.deps.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\bin\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.runtimeconfig.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\bin\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.runtimeconfig.dev.json
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\bin\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.dll
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\bin\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.pdb
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\obj\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\obj\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.AssemblyInfoInputs.cache
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\obj\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.AssemblyInfo.cs
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\obj\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.dll
+F:\VS\GITHUB\00___Exersize\18___Exercise\Exercise\03___CheckTIme_with_Datetime\obj\Debug\netcoreapp2.0\03___CheckTIme_with_Datetime.pdb
