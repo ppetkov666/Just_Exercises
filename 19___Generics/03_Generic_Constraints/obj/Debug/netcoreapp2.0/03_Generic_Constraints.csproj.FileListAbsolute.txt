@@ -1,0 +1,11 @@
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\bin\Debug\netcoreapp2.0\03_Generic_Constraints.deps.json
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\bin\Debug\netcoreapp2.0\03_Generic_Constraints.runtimeconfig.json
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\bin\Debug\netcoreapp2.0\03_Generic_Constraints.runtimeconfig.dev.json
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\bin\Debug\netcoreapp2.0\03_Generic_Constraints.dll
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\bin\Debug\netcoreapp2.0\03_Generic_Constraints.pdb
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\obj\Debug\netcoreapp2.0\03_Generic_Constraints.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\obj\Debug\netcoreapp2.0\03_Generic_Constraints.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\obj\Debug\netcoreapp2.0\03_Generic_Constraints.AssemblyInfoInputs.cache
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\obj\Debug\netcoreapp2.0\03_Generic_Constraints.AssemblyInfo.cs
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\obj\Debug\netcoreapp2.0\03_Generic_Constraints.dll
+F:\VS\GITHUB\00___Exersize\17___Generics\03_Generic_Constraints\obj\Debug\netcoreapp2.0\03_Generic_Constraints.pdb
