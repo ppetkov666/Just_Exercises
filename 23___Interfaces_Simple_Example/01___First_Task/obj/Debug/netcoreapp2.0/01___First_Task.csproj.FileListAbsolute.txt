@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\bin\Debug\netcoreapp2.0\01___First_Task.deps.json
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\bin\Debug\netcoreapp2.0\01___First_Task.runtimeconfig.json
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\bin\Debug\netcoreapp2.0\01___First_Task.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\bin\Debug\netcoreapp2.0\01___First_Task.dll
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\bin\Debug\netcoreapp2.0\01___First_Task.pdb
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\obj\Debug\netcoreapp2.0\01___First_Task.csprojResolveAssemblyReference.cache
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\obj\Debug\netcoreapp2.0\01___First_Task.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\obj\Debug\netcoreapp2.0\01___First_Task.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\obj\Debug\netcoreapp2.0\01___First_Task.AssemblyInfo.cs
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\obj\Debug\netcoreapp2.0\01___First_Task.dll
+C:\Users\predator\source\repos\Dependency_Injection_Example\01___First_Task\obj\Debug\netcoreapp2.0\01___First_Task.pdb
