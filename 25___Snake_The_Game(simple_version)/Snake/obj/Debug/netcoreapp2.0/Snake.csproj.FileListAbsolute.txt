@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Snake_The_Game\Snake\bin\Debug\netcoreapp2.0\Snake.deps.json
+C:\Users\predator\source\repos\Snake_The_Game\Snake\bin\Debug\netcoreapp2.0\Snake.runtimeconfig.json
+C:\Users\predator\source\repos\Snake_The_Game\Snake\bin\Debug\netcoreapp2.0\Snake.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Snake_The_Game\Snake\bin\Debug\netcoreapp2.0\Snake.dll
+C:\Users\predator\source\repos\Snake_The_Game\Snake\bin\Debug\netcoreapp2.0\Snake.pdb
+C:\Users\predator\source\repos\Snake_The_Game\Snake\obj\Debug\netcoreapp2.0\Snake.csprojResolveAssemblyReference.cache
+C:\Users\predator\source\repos\Snake_The_Game\Snake\obj\Debug\netcoreapp2.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Snake_The_Game\Snake\obj\Debug\netcoreapp2.0\Snake.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Snake_The_Game\Snake\obj\Debug\netcoreapp2.0\Snake.AssemblyInfo.cs
+C:\Users\predator\source\repos\Snake_The_Game\Snake\obj\Debug\netcoreapp2.0\Snake.dll
+C:\Users\predator\source\repos\Snake_The_Game\Snake\obj\Debug\netcoreapp2.0\Snake.pdb
