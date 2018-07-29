@@ -1,0 +1,11 @@
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\obj\Debug\netcoreapp2.0\01___FirstExample.csproj.CoreCompileInputs.cache
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\obj\Debug\netcoreapp2.0\01___FirstExample.AssemblyInfoInputs.cache
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\obj\Debug\netcoreapp2.0\01___FirstExample.AssemblyInfo.cs
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\bin\Debug\netcoreapp2.0\01___FirstExample.deps.json
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\bin\Debug\netcoreapp2.0\01___FirstExample.runtimeconfig.json
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\bin\Debug\netcoreapp2.0\01___FirstExample.runtimeconfig.dev.json
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\bin\Debug\netcoreapp2.0\01___FirstExample.dll
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\bin\Debug\netcoreapp2.0\01___FirstExample.pdb
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\obj\Debug\netcoreapp2.0\01___FirstExample.csprojResolveAssemblyReference.cache
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\obj\Debug\netcoreapp2.0\01___FirstExample.dll
+c:\users\predator\source\repos\ArrayManipulation\01___FirstExample\obj\Debug\netcoreapp2.0\01___FirstExample.pdb
