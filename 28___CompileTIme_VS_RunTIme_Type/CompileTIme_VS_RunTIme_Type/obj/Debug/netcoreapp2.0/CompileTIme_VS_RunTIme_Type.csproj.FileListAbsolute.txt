@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\bin\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.deps.json
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\bin\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.runtimeconfig.json
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\bin\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.runtimeconfig.dev.json
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\bin\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.dll
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\bin\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.pdb
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\obj\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.csprojResolveAssemblyReference.cache
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\obj\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\obj\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\obj\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.AssemblyInfo.cs
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\obj\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.dll
+C:\Users\predator\source\repos\CompileTIme_VS_RunTIme_Type\CompileTIme_VS_RunTIme_Type\obj\Debug\netcoreapp2.0\CompileTIme_VS_RunTIme_Type.pdb
