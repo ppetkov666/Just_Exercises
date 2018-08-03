@@ -1,0 +1,11 @@
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\bin\Debug\netcoreapp2.0\Random_Letter_Generator.deps.json
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\bin\Debug\netcoreapp2.0\Random_Letter_Generator.runtimeconfig.json
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\bin\Debug\netcoreapp2.0\Random_Letter_Generator.runtimeconfig.dev.json
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\bin\Debug\netcoreapp2.0\Random_Letter_Generator.dll
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\bin\Debug\netcoreapp2.0\Random_Letter_Generator.pdb
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\obj\Debug\netcoreapp2.0\Random_Letter_Generator.csprojResolveAssemblyReference.cache
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\obj\Debug\netcoreapp2.0\Random_Letter_Generator.csproj.CoreCompileInputs.cache
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\obj\Debug\netcoreapp2.0\Random_Letter_Generator.AssemblyInfoInputs.cache
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\obj\Debug\netcoreapp2.0\Random_Letter_Generator.AssemblyInfo.cs
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\obj\Debug\netcoreapp2.0\Random_Letter_Generator.dll
+c:\users\predator\source\repos\Random_Letter_Generator\Random_Letter_Generator\obj\Debug\netcoreapp2.0\Random_Letter_Generator.pdb
