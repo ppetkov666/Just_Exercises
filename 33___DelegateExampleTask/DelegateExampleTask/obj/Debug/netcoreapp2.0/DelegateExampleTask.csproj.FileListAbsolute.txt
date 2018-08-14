@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.deps.json
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.runtimeconfig.json
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.runtimeconfig.dev.json
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.dll
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.pdb
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.AssemblyInfo.cs
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.dll
+C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.pdb
