@@ -1,0 +1,11 @@
+c:\users\predator\source\repos\AttributesExample\AttributesExample\bin\Debug\netcoreapp2.0\AttributesExample.deps.json
+c:\users\predator\source\repos\AttributesExample\AttributesExample\bin\Debug\netcoreapp2.0\AttributesExample.runtimeconfig.json
+c:\users\predator\source\repos\AttributesExample\AttributesExample\bin\Debug\netcoreapp2.0\AttributesExample.runtimeconfig.dev.json
+c:\users\predator\source\repos\AttributesExample\AttributesExample\bin\Debug\netcoreapp2.0\AttributesExample.dll
+c:\users\predator\source\repos\AttributesExample\AttributesExample\bin\Debug\netcoreapp2.0\AttributesExample.pdb
+c:\users\predator\source\repos\AttributesExample\AttributesExample\obj\Debug\netcoreapp2.0\AttributesExample.csprojAssemblyReference.cache
+c:\users\predator\source\repos\AttributesExample\AttributesExample\obj\Debug\netcoreapp2.0\AttributesExample.csproj.CoreCompileInputs.cache
+c:\users\predator\source\repos\AttributesExample\AttributesExample\obj\Debug\netcoreapp2.0\AttributesExample.AssemblyInfoInputs.cache
+c:\users\predator\source\repos\AttributesExample\AttributesExample\obj\Debug\netcoreapp2.0\AttributesExample.AssemblyInfo.cs
+c:\users\predator\source\repos\AttributesExample\AttributesExample\obj\Debug\netcoreapp2.0\AttributesExample.dll
+c:\users\predator\source\repos\AttributesExample\AttributesExample\obj\Debug\netcoreapp2.0\AttributesExample.pdb
