@@ -1,0 +1,11 @@
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\bin\Debug\netcoreapp2.0\02___Char'sTransformation.deps.json
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\bin\Debug\netcoreapp2.0\02___Char'sTransformation.runtimeconfig.json
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\bin\Debug\netcoreapp2.0\02___Char'sTransformation.runtimeconfig.dev.json
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\bin\Debug\netcoreapp2.0\02___Char'sTransformation.dll
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\bin\Debug\netcoreapp2.0\02___Char'sTransformation.pdb
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\obj\Debug\netcoreapp2.0\02___Char'sTransformation.csprojAssemblyReference.cache
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\obj\Debug\netcoreapp2.0\02___Char'sTransformation.csproj.CoreCompileInputs.cache
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\obj\Debug\netcoreapp2.0\02___Char'sTransformation.AssemblyInfoInputs.cache
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\obj\Debug\netcoreapp2.0\02___Char'sTransformation.AssemblyInfo.cs
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\obj\Debug\netcoreapp2.0\02___Char'sTransformation.dll
+c:\users\predator\source\repos\TwoSimpleTasks\02___Char'sTransformation\obj\Debug\netcoreapp2.0\02___Char'sTransformation.pdb
