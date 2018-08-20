@@ -1,0 +1,11 @@
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\bin\Debug\netcoreapp2.0\01___FirstTask.deps.json
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\bin\Debug\netcoreapp2.0\01___FirstTask.runtimeconfig.json
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\bin\Debug\netcoreapp2.0\01___FirstTask.runtimeconfig.dev.json
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\bin\Debug\netcoreapp2.0\01___FirstTask.dll
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\bin\Debug\netcoreapp2.0\01___FirstTask.pdb
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\obj\Debug\netcoreapp2.0\01___FirstTask.csprojAssemblyReference.cache
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\obj\Debug\netcoreapp2.0\01___FirstTask.csproj.CoreCompileInputs.cache
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\obj\Debug\netcoreapp2.0\01___FirstTask.AssemblyInfoInputs.cache
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\obj\Debug\netcoreapp2.0\01___FirstTask.AssemblyInfo.cs
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\obj\Debug\netcoreapp2.0\01___FirstTask.dll
+c:\users\predator\source\repos\TwoSimpleTasks\01___FirstTask\obj\Debug\netcoreapp2.0\01___FirstTask.pdb
