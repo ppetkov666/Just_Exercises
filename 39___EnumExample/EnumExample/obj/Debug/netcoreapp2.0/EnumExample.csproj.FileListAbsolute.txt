@@ -1,0 +1,11 @@
+c:\users\predator\source\repos\EnumExample\EnumExample\bin\Debug\netcoreapp2.0\EnumExample.deps.json
+c:\users\predator\source\repos\EnumExample\EnumExample\bin\Debug\netcoreapp2.0\EnumExample.runtimeconfig.json
+c:\users\predator\source\repos\EnumExample\EnumExample\bin\Debug\netcoreapp2.0\EnumExample.runtimeconfig.dev.json
+c:\users\predator\source\repos\EnumExample\EnumExample\bin\Debug\netcoreapp2.0\EnumExample.dll
+c:\users\predator\source\repos\EnumExample\EnumExample\bin\Debug\netcoreapp2.0\EnumExample.pdb
+c:\users\predator\source\repos\EnumExample\EnumExample\obj\Debug\netcoreapp2.0\EnumExample.csprojAssemblyReference.cache
+c:\users\predator\source\repos\EnumExample\EnumExample\obj\Debug\netcoreapp2.0\EnumExample.csproj.CoreCompileInputs.cache
+c:\users\predator\source\repos\EnumExample\EnumExample\obj\Debug\netcoreapp2.0\EnumExample.AssemblyInfoInputs.cache
+c:\users\predator\source\repos\EnumExample\EnumExample\obj\Debug\netcoreapp2.0\EnumExample.AssemblyInfo.cs
+c:\users\predator\source\repos\EnumExample\EnumExample\obj\Debug\netcoreapp2.0\EnumExample.dll
+c:\users\predator\source\repos\EnumExample\EnumExample\obj\Debug\netcoreapp2.0\EnumExample.pdb
