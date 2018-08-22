@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01___StaticVsNonStaticFieldsTest", "01___StaticVsNonStaticFieldsTest\01___StaticVsNonStaticFieldsTest.csproj", "{4E891A80-15C9-4C6B-9E42-C17E93A7024F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02___ArrayCalculations", "02___ArrayCalculations\02___ArrayCalculations.csproj", "{7F27A027-E550-4464-ACEE-B3FA25F67F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E891A80-15C9-4C6B-9E42-C17E93A7024F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E891A80-15C9-4C6B-9E42-C17E93A7024F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E891A80-15C9-4C6B-9E42-C17E93A7024F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E891A80-15C9-4C6B-9E42-C17E93A7024F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F27A027-E550-4464-ACEE-B3FA25F67F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F27A027-E550-4464-ACEE-B3FA25F67F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F27A027-E550-4464-ACEE-B3FA25F67F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F27A027-E550-4464-ACEE-B3FA25F67F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67CF59F0-F3F6-41C3-BAB8-8E304511C3A6}
+	EndGlobalSection
+EndGlobal

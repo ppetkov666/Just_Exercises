@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\bin\Debug\netcoreapp2.0\02___ArrayCalculations.deps.json
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\bin\Debug\netcoreapp2.0\02___ArrayCalculations.runtimeconfig.json
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\bin\Debug\netcoreapp2.0\02___ArrayCalculations.runtimeconfig.dev.json
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\bin\Debug\netcoreapp2.0\02___ArrayCalculations.dll
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\bin\Debug\netcoreapp2.0\02___ArrayCalculations.pdb
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\obj\Debug\netcoreapp2.0\02___ArrayCalculations.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\obj\Debug\netcoreapp2.0\02___ArrayCalculations.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\obj\Debug\netcoreapp2.0\02___ArrayCalculations.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\obj\Debug\netcoreapp2.0\02___ArrayCalculations.AssemblyInfo.cs
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\obj\Debug\netcoreapp2.0\02___ArrayCalculations.dll
+C:\Users\predator\source\repos\TwoTasks\02___ArrayCalculations\obj\Debug\netcoreapp2.0\02___ArrayCalculations.pdb

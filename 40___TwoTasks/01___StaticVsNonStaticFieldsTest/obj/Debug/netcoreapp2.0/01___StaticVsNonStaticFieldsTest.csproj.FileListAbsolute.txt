@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\bin\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.deps.json
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\bin\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.runtimeconfig.json
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\bin\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.runtimeconfig.dev.json
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\bin\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.dll
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\bin\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.pdb
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\obj\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\obj\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\obj\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\obj\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.AssemblyInfo.cs
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\obj\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.dll
+C:\Users\predator\source\repos\TwoTasks\01___StaticVsNonStaticFieldsTest\obj\Debug\netcoreapp2.0\01___StaticVsNonStaticFieldsTest.pdb
