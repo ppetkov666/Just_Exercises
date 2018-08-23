@@ -1,0 +1,10 @@
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\bin\Debug\netcoreapp2.0\01___valueVSReffenrenceType.deps.json
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\bin\Debug\netcoreapp2.0\01___valueVSReffenrenceType.runtimeconfig.json
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\bin\Debug\netcoreapp2.0\01___valueVSReffenrenceType.runtimeconfig.dev.json
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\bin\Debug\netcoreapp2.0\01___valueVSReffenrenceType.dll
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\bin\Debug\netcoreapp2.0\01___valueVSReffenrenceType.pdb
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\obj\Debug\netcoreapp2.0\01___valueVSReffenrenceType.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\obj\Debug\netcoreapp2.0\01___valueVSReffenrenceType.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\obj\Debug\netcoreapp2.0\01___valueVSReffenrenceType.AssemblyInfo.cs
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\obj\Debug\netcoreapp2.0\01___valueVSReffenrenceType.dll
+C:\Users\predator\source\repos\TwoConsoleApp\01___valueVSReffenrenceType\obj\Debug\netcoreapp2.0\01___valueVSReffenrenceType.pdb

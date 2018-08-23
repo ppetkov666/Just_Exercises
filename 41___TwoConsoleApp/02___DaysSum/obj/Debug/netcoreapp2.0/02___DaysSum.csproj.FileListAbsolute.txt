@@ -1,0 +1,10 @@
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\bin\Debug\netcoreapp2.0\02___DaysSum.deps.json
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\bin\Debug\netcoreapp2.0\02___DaysSum.runtimeconfig.json
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\bin\Debug\netcoreapp2.0\02___DaysSum.runtimeconfig.dev.json
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\bin\Debug\netcoreapp2.0\02___DaysSum.dll
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\bin\Debug\netcoreapp2.0\02___DaysSum.pdb
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\obj\Debug\netcoreapp2.0\02___DaysSum.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\obj\Debug\netcoreapp2.0\02___DaysSum.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\obj\Debug\netcoreapp2.0\02___DaysSum.AssemblyInfo.cs
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\obj\Debug\netcoreapp2.0\02___DaysSum.dll
+C:\Users\predator\source\repos\TwoConsoleApp\02___DaysSum\obj\Debug\netcoreapp2.0\02___DaysSum.pdb
