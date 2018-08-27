@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\example\PartialClassExample\bin\Debug\netcoreapp2.1\02___PartialClassExample.deps.json
+C:\Users\predator\source\repos\example\PartialClassExample\bin\Debug\netcoreapp2.1\02___PartialClassExample.runtimeconfig.json
+C:\Users\predator\source\repos\example\PartialClassExample\bin\Debug\netcoreapp2.1\02___PartialClassExample.runtimeconfig.dev.json
+C:\Users\predator\source\repos\example\PartialClassExample\bin\Debug\netcoreapp2.1\02___PartialClassExample.dll
+C:\Users\predator\source\repos\example\PartialClassExample\bin\Debug\netcoreapp2.1\02___PartialClassExample.pdb
+C:\Users\predator\source\repos\example\PartialClassExample\obj\Debug\netcoreapp2.1\02___PartialClassExample.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\example\PartialClassExample\obj\Debug\netcoreapp2.1\02___PartialClassExample.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\example\PartialClassExample\obj\Debug\netcoreapp2.1\02___PartialClassExample.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\example\PartialClassExample\obj\Debug\netcoreapp2.1\02___PartialClassExample.AssemblyInfo.cs
+C:\Users\predator\source\repos\example\PartialClassExample\obj\Debug\netcoreapp2.1\02___PartialClassExample.dll
+C:\Users\predator\source\repos\example\PartialClassExample\obj\Debug\netcoreapp2.1\02___PartialClassExample.pdb

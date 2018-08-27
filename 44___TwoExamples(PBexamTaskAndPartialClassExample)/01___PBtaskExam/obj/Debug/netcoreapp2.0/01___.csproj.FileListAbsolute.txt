@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\example\01___\bin\Debug\netcoreapp2.0\01___.deps.json
+C:\Users\predator\source\repos\example\01___\bin\Debug\netcoreapp2.0\01___.runtimeconfig.json
+C:\Users\predator\source\repos\example\01___\bin\Debug\netcoreapp2.0\01___.runtimeconfig.dev.json
+C:\Users\predator\source\repos\example\01___\bin\Debug\netcoreapp2.0\01___.dll
+C:\Users\predator\source\repos\example\01___\bin\Debug\netcoreapp2.0\01___.pdb
+C:\Users\predator\source\repos\example\01___\obj\Debug\netcoreapp2.0\01___.csprojResolveAssemblyReference.cache
+C:\Users\predator\source\repos\example\01___\obj\Debug\netcoreapp2.0\01___.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\example\01___\obj\Debug\netcoreapp2.0\01___.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\example\01___\obj\Debug\netcoreapp2.0\01___.AssemblyInfo.cs
+C:\Users\predator\source\repos\example\01___\obj\Debug\netcoreapp2.0\01___.dll
+C:\Users\predator\source\repos\example\01___\obj\Debug\netcoreapp2.0\01___.pdb
