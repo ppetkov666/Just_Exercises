@@ -1,0 +1,13 @@
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\bin\Debug\netcoreapp2.1\ReferenceASdll.deps.json
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\bin\Debug\netcoreapp2.1\ReferenceASdll.runtimeconfig.json
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\bin\Debug\netcoreapp2.1\ReferenceASdll.runtimeconfig.dev.json
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\bin\Debug\netcoreapp2.1\ReferenceASdll.dll
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\bin\Debug\netcoreapp2.1\ReferenceASdll.pdb
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\bin\Debug\netcoreapp2.1\MathOperations.dll
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\obj\Debug\netcoreapp2.1\ReferenceASdll.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\obj\Debug\netcoreapp2.1\ReferenceASdll.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\obj\Debug\netcoreapp2.1\ReferenceASdll.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\obj\Debug\netcoreapp2.1\ReferenceASdll.AssemblyInfo.cs
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\obj\Debug\netcoreapp2.1\ReferenceASdll.csproj.CopyComplete
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\obj\Debug\netcoreapp2.1\ReferenceASdll.dll
+C:\Users\predator\source\repos\ReferenceASdll\ReferenceASdll\obj\Debug\netcoreapp2.1\ReferenceASdll.pdb
