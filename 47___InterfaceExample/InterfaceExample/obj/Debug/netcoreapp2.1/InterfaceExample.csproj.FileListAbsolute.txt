@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.deps.json
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.runtimeconfig.json
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.runtimeconfig.dev.json
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.dll
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.pdb
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.AssemblyInfo.cs
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.dll
+C:\Users\predator\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.pdb
