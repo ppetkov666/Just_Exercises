@@ -1,0 +1,13 @@
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\bin\Debug\netcoreapp2.1\FindLongestSubSeequence.deps.json
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\bin\Debug\netcoreapp2.1\FindLongestSubSeequence.runtimeconfig.json
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\bin\Debug\netcoreapp2.1\FindLongestSubSeequence.runtimeconfig.dev.json
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\bin\Debug\netcoreapp2.1\FindLongestSubSeequence.dll
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\bin\Debug\netcoreapp2.1\FindLongestSubSeequence.pdb
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\obj\Debug\netcoreapp2.1\FindLongestSubSeequence.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\obj\Debug\netcoreapp2.1\FindLongestSubSeequence.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\obj\Debug\netcoreapp2.1\FindLongestSubSeequence.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\obj\Debug\netcoreapp2.1\FindLongestSubSeequence.AssemblyInfo.cs
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\obj\Debug\netcoreapp2.1\FindLongestSubSeequence.dll
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\obj\Debug\netcoreapp2.1\FindLongestSubSeequence.pdb
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\bin\Debug\netcoreapp2.1\LongestIncreasingSubSequence.dll
+C:\Users\predator\source\repos\FindLongestSubSeequence\FindLongestSubSeequence\obj\Debug\netcoreapp2.1\FindLongestSubSeequence.csproj.CopyComplete
