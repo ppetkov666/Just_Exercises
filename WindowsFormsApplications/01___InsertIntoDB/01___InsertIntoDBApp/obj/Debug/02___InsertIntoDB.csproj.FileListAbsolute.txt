@@ -1,0 +1,15 @@
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\bin\Debug\02___InsertIntoDB.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\bin\Debug\02___InsertIntoDB.exe
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\bin\Debug\02___InsertIntoDB.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\bin\Debug\EntityFramework.dll
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\bin\Debug\EntityFramework.xml
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\obj\Debug\02___InsertIntoDB.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\obj\Debug\_02___InsertIntoDB.MainForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\obj\Debug\_02___InsertIntoDB.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\obj\Debug\02___InsertIntoDB.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\obj\Debug\02___InsertIntoDB.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\obj\Debug\02___InsertIntoDB.csproj.CopyComplete
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\obj\Debug\02___InsertIntoDB.exe
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\02___InsertIntoDB\obj\Debug\02___InsertIntoDB.pdb
