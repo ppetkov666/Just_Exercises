@@ -1,0 +1,15 @@
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\bin\Debug\DBFirstApp.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\bin\Debug\DBFirstApp.exe
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\bin\Debug\DBFirstApp.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\obj\Debug\01___DBFirstApp.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\obj\Debug\DBFirstApp.fUserInterface.resources
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\obj\Debug\DBFirstApp.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\obj\Debug\01___DBFirstApp.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\obj\Debug\01___DBFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\obj\Debug\01___DBFirstApp.csproj.CopyComplete
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\obj\Debug\DBFirstApp.exe
+C:\Users\predator\Desktop\Office\VisualStudio\02___WFAppDBFirst\WFApp\01___DBFirstApp\obj\Debug\DBFirstApp.pdb
