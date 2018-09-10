@@ -1,0 +1,10 @@
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\bin\Debug\04___AndAnotherExample.exe.config
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\bin\Debug\04___AndAnotherExample.exe
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\bin\Debug\04___AndAnotherExample.pdb
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\obj\Debug\01___AndAnotherExample.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\obj\Debug\_04___AndAnotherExample.CheckForm.resources
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\obj\Debug\_04___AndAnotherExample.Properties.Resources.resources
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\obj\Debug\01___AndAnotherExample.csproj.GenerateResource.cache
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\obj\Debug\01___AndAnotherExample.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\obj\Debug\04___AndAnotherExample.exe
+C:\Users\predator\source\repos\SetMyName\01___AndAnotherExample\obj\Debug\04___AndAnotherExample.pdb
