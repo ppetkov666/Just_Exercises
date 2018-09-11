@@ -1,0 +1,10 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\bin\Debug\WindowsFormsApp1.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\obj\Debug\06___ClickCounter.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\obj\Debug\WindowsFormsApp1.CheckForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\obj\Debug\06___ClickCounter.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\obj\Debug\06___ClickCounter.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\obj\Debug\WindowsFormsApp1.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\06___ClickCounter\obj\Debug\WindowsFormsApp1.pdb
