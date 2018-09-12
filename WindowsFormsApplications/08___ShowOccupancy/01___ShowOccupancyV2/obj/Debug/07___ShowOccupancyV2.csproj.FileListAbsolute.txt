@@ -1,0 +1,10 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\bin\Debug\07___.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\bin\Debug\07___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\bin\Debug\07___.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\obj\Debug\07___ShowOccupancyV2.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\obj\Debug\_07___.CheckForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\obj\Debug\_07___.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\obj\Debug\07___ShowOccupancyV2.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\obj\Debug\07___ShowOccupancyV2.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\obj\Debug\07___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\07___ShowOccupancyV2\obj\Debug\07___.pdb
