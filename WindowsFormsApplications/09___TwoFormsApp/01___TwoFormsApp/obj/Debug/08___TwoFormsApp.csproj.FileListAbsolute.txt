@@ -1,0 +1,11 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\bin\Debug\08___.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\bin\Debug\08___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\bin\Debug\08___.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\obj\Debug\08___TwoFormsApp.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\obj\Debug\_08___.MainForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\obj\Debug\_08___.cMyCustomForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\obj\Debug\_08___.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\obj\Debug\08___TwoFormsApp.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\obj\Debug\08___TwoFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\obj\Debug\08___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\08___TwoFormsApp\obj\Debug\08___.pdb
