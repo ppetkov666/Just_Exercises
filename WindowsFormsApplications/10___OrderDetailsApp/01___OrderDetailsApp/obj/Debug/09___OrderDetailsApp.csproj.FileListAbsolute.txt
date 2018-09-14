@@ -1,0 +1,10 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\bin\Debug\09___.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\bin\Debug\09___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\bin\Debug\09___.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\obj\Debug\09___OrderDetailsApp.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\obj\Debug\_09___.fMainForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\obj\Debug\_09___.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\obj\Debug\09___OrderDetailsApp.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\obj\Debug\09___OrderDetailsApp.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\obj\Debug\09___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\09___OrderDetailsApp\obj\Debug\09___.pdb
