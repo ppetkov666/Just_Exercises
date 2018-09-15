@@ -1,0 +1,10 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\bin\Debug\10___.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\bin\Debug\10___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\bin\Debug\10___.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\obj\Debug\10___FileOpenDialog - Demo.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\obj\Debug\_10___.MainForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\obj\Debug\_10___.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\obj\Debug\10___FileOpenDialog - Demo.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\obj\Debug\10___FileOpenDialog - Demo.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\obj\Debug\10___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\10___FileOpenDialog - Demo\obj\Debug\10___.pdb
