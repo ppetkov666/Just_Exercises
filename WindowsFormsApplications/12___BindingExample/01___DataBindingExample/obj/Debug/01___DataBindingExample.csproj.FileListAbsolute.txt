@@ -1,0 +1,10 @@
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\bin\Debug\13___AnotherDataBindingExample.exe.config
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\bin\Debug\13___AnotherDataBindingExample.exe
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\bin\Debug\13___AnotherDataBindingExample.pdb
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\obj\Debug\01___DataBindingExample.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\obj\Debug\_13___AnotherDataBindingExample.MainForm.resources
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\obj\Debug\_13___AnotherDataBindingExample.Properties.Resources.resources
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\obj\Debug\01___DataBindingExample.csproj.GenerateResource.cache
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\obj\Debug\01___DataBindingExample.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\obj\Debug\13___AnotherDataBindingExample.exe
+C:\Users\predator\source\repos\BindingExample\01___DataBindingExample\obj\Debug\13___AnotherDataBindingExample.pdb
