@@ -1,0 +1,10 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\bin\Debug\14___BindingControlTolist.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\bin\Debug\14___BindingControlTolist.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\bin\Debug\14___BindingControlTolist.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\obj\Debug\14___BindingControlTolist.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\obj\Debug\_14___BindingControlTolist.MainForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\obj\Debug\_14___BindingControlTolist.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\obj\Debug\14___BindingControlTolist.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\obj\Debug\14___BindingControlTolist.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\obj\Debug\14___BindingControlTolist.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\14___BindingControlTolist\obj\Debug\14___BindingControlTolist.pdb
