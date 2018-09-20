@@ -1,0 +1,14 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\bin\Debug\18___DAPPERdbApp.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\bin\Debug\18___DAPPERdbApp.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\bin\Debug\18___DAPPERdbApp.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\bin\Debug\Dapper.dll
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\bin\Debug\Dapper.xml
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\obj\Debug\18___DAPPERdbApp.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\obj\Debug\_18___DAPPERdbApp.DashBoard.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\obj\Debug\_18___DAPPERdbApp.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\obj\Debug\18___DAPPERdbApp.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\obj\Debug\18___DAPPERdbApp.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\obj\Debug\18___DAPPERdbApp.csproj.CopyComplete
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\obj\Debug\18___DAPPERdbApp.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\18___DAPPERdbApp\obj\Debug\18___DAPPERdbApp.pdb
