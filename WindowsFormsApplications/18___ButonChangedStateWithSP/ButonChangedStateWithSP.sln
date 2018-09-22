@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01___ButonChangedStateWithSP", "01___ButonChangedStateWithSP\01___ButonChangedStateWithSP.csproj", "{B8979F0B-4293-45AC-9636-7EB270508C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8979F0B-4293-45AC-9636-7EB270508C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8979F0B-4293-45AC-9636-7EB270508C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8979F0B-4293-45AC-9636-7EB270508C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8979F0B-4293-45AC-9636-7EB270508C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE5E8A93-B19B-4235-BF6C-84E08A401566}
+	EndGlobalSection
+EndGlobal
