@@ -1,0 +1,12 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\bin\Debug\16___DataGrid.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\bin\Debug\16___DataGrid.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\bin\Debug\16___DataGrid.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\obj\Debug\16___DataGrid.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\obj\Debug\_16___DataGrid.MainForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\obj\Debug\_16___DataGrid.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\obj\Debug\16___DataGrid.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\obj\Debug\16___DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\obj\Debug\16___DataGrid.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\obj\Debug\16___DataGrid.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\bin\Debug\System.Data.SqlClient.dll
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\16___DataGrid\obj\Debug\16___DataGrid.csproj.CopyComplete
