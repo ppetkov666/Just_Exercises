@@ -1,0 +1,10 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\bin\Debug\17___.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\bin\Debug\17___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\bin\Debug\17___.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\obj\Debug\17___dataGridWithLoadedDB.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\obj\Debug\_17___.MainForm.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\obj\Debug\_17___.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\obj\Debug\17___dataGridWithLoadedDB.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\obj\Debug\17___dataGridWithLoadedDB.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\obj\Debug\17___.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\17___dataGridWithLoadedDB\obj\Debug\17___.pdb
