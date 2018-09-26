@@ -7,9 +7,9 @@ namespace Seven
     {
         static void Main(string[] args)
         {
-            var list = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-            var filteredList = list.MyOwnFilter(n => n % 2 == 0);
-            foreach (var item in filteredList)
+            List<int> list = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            IEnumerable<int> filteredList = list.MyOwnFilter(n => n % 2 == 0);
+            foreach (int item in filteredList)
             {
                 Console.WriteLine(item);
             }
