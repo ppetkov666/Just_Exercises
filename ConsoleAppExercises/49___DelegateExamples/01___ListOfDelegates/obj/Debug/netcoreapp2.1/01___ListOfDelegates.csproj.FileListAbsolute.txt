@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\bin\Debug\netcoreapp2.1\01___ListOfDelegates.deps.json
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\bin\Debug\netcoreapp2.1\01___ListOfDelegates.runtimeconfig.json
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\bin\Debug\netcoreapp2.1\01___ListOfDelegates.runtimeconfig.dev.json
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\bin\Debug\netcoreapp2.1\01___ListOfDelegates.dll
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\bin\Debug\netcoreapp2.1\01___ListOfDelegates.pdb
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\obj\Debug\netcoreapp2.1\01___ListOfDelegates.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\obj\Debug\netcoreapp2.1\01___ListOfDelegates.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\obj\Debug\netcoreapp2.1\01___ListOfDelegates.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\obj\Debug\netcoreapp2.1\01___ListOfDelegates.AssemblyInfo.cs
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\obj\Debug\netcoreapp2.1\01___ListOfDelegates.dll
+C:\Users\predator\source\repos\DelegateExamples\01___ListOfDelegates\obj\Debug\netcoreapp2.1\01___ListOfDelegates.pdb
