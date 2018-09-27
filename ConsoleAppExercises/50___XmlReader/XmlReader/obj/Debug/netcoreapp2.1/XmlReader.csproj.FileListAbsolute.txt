@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp2.1\XmlReader.deps.json
+C:\Users\predator\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp2.1\XmlReader.runtimeconfig.json
+C:\Users\predator\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp2.1\XmlReader.runtimeconfig.dev.json
+C:\Users\predator\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp2.1\XmlReader.dll
+C:\Users\predator\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp2.1\XmlReader.pdb
+C:\Users\predator\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp2.1\XmlReader.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp2.1\XmlReader.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp2.1\XmlReader.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp2.1\XmlReader.AssemblyInfo.cs
+C:\Users\predator\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp2.1\XmlReader.dll
+C:\Users\predator\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp2.1\XmlReader.pdb
