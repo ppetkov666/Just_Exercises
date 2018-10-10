@@ -1,0 +1,6 @@
+C:\Users\predator\source\repos\WebClientDownloader\WebClientDownloader\obj\Debug\WebClientDownloader.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\WebClientDownloader\WebClientDownloader\obj\Debug\WebClientDownloader.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\WebClientDownloader\WebClientDownloader\bin\Debug\WebClientDownloader.exe
+C:\Users\predator\source\repos\WebClientDownloader\WebClientDownloader\bin\Debug\WebClientDownloader.pdb
+C:\Users\predator\source\repos\WebClientDownloader\WebClientDownloader\obj\Debug\WebClientDownloader.exe
+C:\Users\predator\source\repos\WebClientDownloader\WebClientDownloader\obj\Debug\WebClientDownloader.pdb
