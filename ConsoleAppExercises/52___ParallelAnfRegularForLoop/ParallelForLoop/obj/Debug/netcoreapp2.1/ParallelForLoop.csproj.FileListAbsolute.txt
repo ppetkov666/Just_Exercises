@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\bin\Debug\netcoreapp2.1\ParallelForLoop.deps.json
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\bin\Debug\netcoreapp2.1\ParallelForLoop.runtimeconfig.json
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\bin\Debug\netcoreapp2.1\ParallelForLoop.runtimeconfig.dev.json
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\bin\Debug\netcoreapp2.1\ParallelForLoop.dll
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\bin\Debug\netcoreapp2.1\ParallelForLoop.pdb
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\obj\Debug\netcoreapp2.1\ParallelForLoop.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\obj\Debug\netcoreapp2.1\ParallelForLoop.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\obj\Debug\netcoreapp2.1\ParallelForLoop.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\obj\Debug\netcoreapp2.1\ParallelForLoop.AssemblyInfo.cs
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\obj\Debug\netcoreapp2.1\ParallelForLoop.dll
+C:\Users\predator\source\repos\ParallelForLoop\ParallelForLoop\obj\Debug\netcoreapp2.1\ParallelForLoop.pdb
