@@ -1,0 +1,14 @@
+C:\Users\predator\source\repos\ConvertApplication\03___Example\bin\Debug\03___Example.exe
+C:\Users\predator\source\repos\ConvertApplication\03___Example\bin\Debug\03___Example.pdb
+C:\Users\predator\source\repos\ConvertApplication\03___Example\obj\Debug\_03___Example.Properties.Resources.resources
+C:\Users\predator\source\repos\ConvertApplication\03___Example\obj\Debug\03___Example.csproj.GenerateResource.cache
+C:\Users\predator\source\repos\ConvertApplication\03___Example\obj\Debug\03___Example.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\ConvertApplication\03___Example\obj\Debug\03___Example.exe
+C:\Users\predator\source\repos\ConvertApplication\03___Example\obj\Debug\03___Example.pdb
+C:\Users\predator\source\repos\ConvertApplication\03___Example\bin\Debug\CircularProgressBar.dll
+C:\Users\predator\source\repos\ConvertApplication\03___Example\bin\Debug\WinFormAnimation.dll
+C:\Users\predator\source\repos\ConvertApplication\03___Example\bin\Debug\CircularProgressBar.xml
+C:\Users\predator\source\repos\ConvertApplication\03___Example\bin\Debug\WinFormAnimation.xml
+C:\Users\predator\source\repos\ConvertApplication\03___Example\obj\Debug\_03___Example.Form1.resources
+C:\Users\predator\source\repos\ConvertApplication\03___Example\obj\Debug\03___Example.csproj.CopyComplete
+C:\Users\predator\source\repos\ConvertApplication\03___Example\obj\Debug\03___Example.csprojAssemblyReference.cache

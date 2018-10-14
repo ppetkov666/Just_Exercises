@@ -1,0 +1,8 @@
+C:\Users\predator\source\repos\ConvertApplication\04___BackgrountworkerProgressBar\bin\Debug\04___BackgrountworkerProgressBar.exe
+C:\Users\predator\source\repos\ConvertApplication\04___BackgrountworkerProgressBar\bin\Debug\04___BackgrountworkerProgressBar.pdb
+C:\Users\predator\source\repos\ConvertApplication\04___BackgrountworkerProgressBar\obj\Debug\_04___BackgrountworkerProgressBar.Form1.resources
+C:\Users\predator\source\repos\ConvertApplication\04___BackgrountworkerProgressBar\obj\Debug\_04___BackgrountworkerProgressBar.Properties.Resources.resources
+C:\Users\predator\source\repos\ConvertApplication\04___BackgrountworkerProgressBar\obj\Debug\04___BackgrountworkerProgressBar.csproj.GenerateResource.cache
+C:\Users\predator\source\repos\ConvertApplication\04___BackgrountworkerProgressBar\obj\Debug\04___BackgrountworkerProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\ConvertApplication\04___BackgrountworkerProgressBar\obj\Debug\04___BackgrountworkerProgressBar.exe
+C:\Users\predator\source\repos\ConvertApplication\04___BackgrountworkerProgressBar\obj\Debug\04___BackgrountworkerProgressBar.pdb

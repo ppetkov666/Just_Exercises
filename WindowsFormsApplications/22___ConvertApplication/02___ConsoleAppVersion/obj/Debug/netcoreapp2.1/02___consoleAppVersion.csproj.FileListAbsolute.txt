@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\bin\Debug\netcoreapp2.1\02___consoleAppVersion.deps.json
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\bin\Debug\netcoreapp2.1\02___consoleAppVersion.runtimeconfig.json
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\bin\Debug\netcoreapp2.1\02___consoleAppVersion.runtimeconfig.dev.json
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\bin\Debug\netcoreapp2.1\02___consoleAppVersion.dll
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\bin\Debug\netcoreapp2.1\02___consoleAppVersion.pdb
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\obj\Debug\netcoreapp2.1\02___consoleAppVersion.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\obj\Debug\netcoreapp2.1\02___consoleAppVersion.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\obj\Debug\netcoreapp2.1\02___consoleAppVersion.AssemblyInfo.cs
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\obj\Debug\netcoreapp2.1\02___consoleAppVersion.dll
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\obj\Debug\netcoreapp2.1\02___consoleAppVersion.pdb
+C:\Users\predator\source\repos\ConvertApplication\consoleAppVersion\obj\Debug\netcoreapp2.1\02___consoleAppVersion.csprojAssemblyReference.cache
