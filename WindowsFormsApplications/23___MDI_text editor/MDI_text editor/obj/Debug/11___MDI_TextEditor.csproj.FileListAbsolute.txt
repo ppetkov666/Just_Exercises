@@ -1,0 +1,10 @@
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\bin\Debug\11___MDI_TextEditor.exe.config
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\bin\Debug\11___MDI_TextEditor.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\bin\Debug\11___MDI_TextEditor.pdb
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\obj\Debug\11___MDI_TextEditor.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\obj\Debug\_11___MDI_TextEditor.TextEditorDemo.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\obj\Debug\_11___MDI_TextEditor.Properties.Resources.resources
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\obj\Debug\11___MDI_TextEditor.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\obj\Debug\11___MDI_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\obj\Debug\11___MDI_TextEditor.exe
+C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\11___MDI_TextEditor\obj\Debug\11___MDI_TextEditor.pdb
