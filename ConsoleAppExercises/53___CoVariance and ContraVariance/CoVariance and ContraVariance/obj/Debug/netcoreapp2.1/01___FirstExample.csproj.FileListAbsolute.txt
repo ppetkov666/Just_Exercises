@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\bin\Debug\netcoreapp2.1\01___FirstExample.deps.json
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\bin\Debug\netcoreapp2.1\01___FirstExample.runtimeconfig.json
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\bin\Debug\netcoreapp2.1\01___FirstExample.runtimeconfig.dev.json
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\bin\Debug\netcoreapp2.1\01___FirstExample.dll
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\bin\Debug\netcoreapp2.1\01___FirstExample.pdb
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\obj\Debug\netcoreapp2.1\01___FirstExample.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\obj\Debug\netcoreapp2.1\01___FirstExample.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\obj\Debug\netcoreapp2.1\01___FirstExample.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\obj\Debug\netcoreapp2.1\01___FirstExample.AssemblyInfo.cs
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\obj\Debug\netcoreapp2.1\01___FirstExample.dll
+C:\Users\predator\source\repos\CoVariance and ContraVariance\CoVariance and ContraVariance\obj\Debug\netcoreapp2.1\01___FirstExample.pdb
