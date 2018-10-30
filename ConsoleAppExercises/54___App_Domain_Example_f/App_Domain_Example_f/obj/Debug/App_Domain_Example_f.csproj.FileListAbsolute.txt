@@ -1,0 +1,7 @@
+C:\Users\predator\source\repos\App_Domain_Example_f\App_Domain_Example_f\bin\Debug\App_Domain_Example_f.exe.config
+C:\Users\predator\source\repos\App_Domain_Example_f\App_Domain_Example_f\bin\Debug\App_Domain_Example_f.exe
+C:\Users\predator\source\repos\App_Domain_Example_f\App_Domain_Example_f\bin\Debug\App_Domain_Example_f.pdb
+C:\Users\predator\source\repos\App_Domain_Example_f\App_Domain_Example_f\obj\Debug\App_Domain_Example_f.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\App_Domain_Example_f\App_Domain_Example_f\obj\Debug\App_Domain_Example_f.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\App_Domain_Example_f\App_Domain_Example_f\obj\Debug\App_Domain_Example_f.exe
+C:\Users\predator\source\repos\App_Domain_Example_f\App_Domain_Example_f\obj\Debug\App_Domain_Example_f.pdb
