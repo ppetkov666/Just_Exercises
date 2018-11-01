@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\bin\Debug\netcoreapp2.1\02___Second_Example_Event.deps.json
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\bin\Debug\netcoreapp2.1\02___Second_Example_Event.runtimeconfig.json
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\bin\Debug\netcoreapp2.1\02___Second_Example_Event.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\bin\Debug\netcoreapp2.1\02___Second_Example_Event.dll
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\bin\Debug\netcoreapp2.1\02___Second_Example_Event.pdb
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\obj\Debug\netcoreapp2.1\02___Second_Example_Event.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\obj\Debug\netcoreapp2.1\02___Second_Example_Event.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\obj\Debug\netcoreapp2.1\02___Second_Example_Event.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\obj\Debug\netcoreapp2.1\02___Second_Example_Event.AssemblyInfo.cs
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\obj\Debug\netcoreapp2.1\02___Second_Example_Event.dll
+C:\Users\predator\source\repos\Event_Example_task\Second_Example_Event\obj\Debug\netcoreapp2.1\02___Second_Example_Event.pdb
