@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\bin\Debug\netcoreapp2.1\Memory_View_Solution.deps.json
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\bin\Debug\netcoreapp2.1\Memory_View_Solution.runtimeconfig.json
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\bin\Debug\netcoreapp2.1\Memory_View_Solution.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\bin\Debug\netcoreapp2.1\Memory_View_Solution.dll
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\bin\Debug\netcoreapp2.1\Memory_View_Solution.pdb
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\obj\Debug\netcoreapp2.1\Memory_View_Solution.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\obj\Debug\netcoreapp2.1\Memory_View_Solution.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\obj\Debug\netcoreapp2.1\Memory_View_Solution.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\obj\Debug\netcoreapp2.1\Memory_View_Solution.AssemblyInfo.cs
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\obj\Debug\netcoreapp2.1\Memory_View_Solution.dll
+C:\Users\predator\source\repos\Memory_View_Solution\Memory_View_Solution\obj\Debug\netcoreapp2.1\Memory_View_Solution.pdb
