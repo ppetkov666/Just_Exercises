@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\obj\Debug\netcoreapp2.1\Boolean_possible_Combination.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\obj\Debug\netcoreapp2.1\Boolean_possible_Combination.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\obj\Debug\netcoreapp2.1\Boolean_possible_Combination.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\obj\Debug\netcoreapp2.1\Boolean_possible_Combination.AssemblyInfo.cs
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\bin\Debug\netcoreapp2.1\Boolean_possible_Combination.deps.json
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\bin\Debug\netcoreapp2.1\Boolean_possible_Combination.runtimeconfig.json
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\bin\Debug\netcoreapp2.1\Boolean_possible_Combination.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\bin\Debug\netcoreapp2.1\Boolean_possible_Combination.dll
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\bin\Debug\netcoreapp2.1\Boolean_possible_Combination.pdb
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\obj\Debug\netcoreapp2.1\Boolean_possible_Combination.dll
+C:\Users\predator\source\repos\Boolean_possible_Combination\Boolean_possible_Combination\obj\Debug\netcoreapp2.1\Boolean_possible_Combination.pdb
