@@ -1,0 +1,4 @@
+C:\Users\predator\source\repos\SnowWhiteV2\SnowWhiteV2\obj\Debug\netcoreapp2.1\SnowWhiteV2.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\SnowWhiteV2\SnowWhiteV2\obj\Debug\netcoreapp2.1\SnowWhiteV2.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\SnowWhiteV2\SnowWhiteV2\obj\Debug\netcoreapp2.1\SnowWhiteV2.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\SnowWhiteV2\SnowWhiteV2\obj\Debug\netcoreapp2.1\SnowWhiteV2.AssemblyInfo.cs
