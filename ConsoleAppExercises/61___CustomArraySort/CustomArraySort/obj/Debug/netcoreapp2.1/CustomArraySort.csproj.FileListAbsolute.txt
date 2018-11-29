@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\bin\Debug\netcoreapp2.1\CustomArraySort.deps.json
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\bin\Debug\netcoreapp2.1\CustomArraySort.runtimeconfig.json
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\bin\Debug\netcoreapp2.1\CustomArraySort.runtimeconfig.dev.json
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\bin\Debug\netcoreapp2.1\CustomArraySort.dll
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\bin\Debug\netcoreapp2.1\CustomArraySort.pdb
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\obj\Debug\netcoreapp2.1\CustomArraySort.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\obj\Debug\netcoreapp2.1\CustomArraySort.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\obj\Debug\netcoreapp2.1\CustomArraySort.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\obj\Debug\netcoreapp2.1\CustomArraySort.AssemblyInfo.cs
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\obj\Debug\netcoreapp2.1\CustomArraySort.dll
+C:\Users\predator\source\repos\CustomArraySort\CustomArraySort\obj\Debug\netcoreapp2.1\CustomArraySort.pdb
