@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\bin\Debug\netcoreapp2.1\02___Task.deps.json
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\bin\Debug\netcoreapp2.1\02___Task.runtimeconfig.json
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\bin\Debug\netcoreapp2.1\02___Task.runtimeconfig.dev.json
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\bin\Debug\netcoreapp2.1\02___Task.dll
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\bin\Debug\netcoreapp2.1\02___Task.pdb
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\obj\Debug\netcoreapp2.1\02___Task.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\obj\Debug\netcoreapp2.1\02___Task.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\obj\Debug\netcoreapp2.1\02___Task.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\obj\Debug\netcoreapp2.1\02___Task.AssemblyInfo.cs
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\obj\Debug\netcoreapp2.1\02___Task.dll
+C:\Users\predator\source\repos\BitwiseOperations\02_Task\obj\Debug\netcoreapp2.1\02___Task.pdb
