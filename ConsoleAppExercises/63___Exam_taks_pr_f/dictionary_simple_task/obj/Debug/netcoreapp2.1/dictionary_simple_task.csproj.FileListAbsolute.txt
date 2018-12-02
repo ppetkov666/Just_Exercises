@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\bin\Debug\netcoreapp2.1\dictionary_simple_task.deps.json
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\bin\Debug\netcoreapp2.1\dictionary_simple_task.runtimeconfig.json
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\bin\Debug\netcoreapp2.1\dictionary_simple_task.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\bin\Debug\netcoreapp2.1\dictionary_simple_task.dll
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\bin\Debug\netcoreapp2.1\dictionary_simple_task.pdb
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\obj\Debug\netcoreapp2.1\dictionary_simple_task.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\obj\Debug\netcoreapp2.1\dictionary_simple_task.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\obj\Debug\netcoreapp2.1\dictionary_simple_task.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\obj\Debug\netcoreapp2.1\dictionary_simple_task.AssemblyInfo.cs
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\obj\Debug\netcoreapp2.1\dictionary_simple_task.dll
+C:\Users\predator\source\repos\Exam_taks\dictionary_simple_task\obj\Debug\netcoreapp2.1\dictionary_simple_task.pdb

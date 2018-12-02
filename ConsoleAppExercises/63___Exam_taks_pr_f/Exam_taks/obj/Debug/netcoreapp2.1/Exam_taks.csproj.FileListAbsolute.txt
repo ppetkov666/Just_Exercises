@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\bin\Debug\netcoreapp2.1\Exam_taks.deps.json
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\bin\Debug\netcoreapp2.1\Exam_taks.runtimeconfig.json
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\bin\Debug\netcoreapp2.1\Exam_taks.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\bin\Debug\netcoreapp2.1\Exam_taks.dll
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\bin\Debug\netcoreapp2.1\Exam_taks.pdb
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\obj\Debug\netcoreapp2.1\Exam_taks.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\obj\Debug\netcoreapp2.1\Exam_taks.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\obj\Debug\netcoreapp2.1\Exam_taks.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\obj\Debug\netcoreapp2.1\Exam_taks.AssemblyInfo.cs
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\obj\Debug\netcoreapp2.1\Exam_taks.dll
+C:\Users\predator\source\repos\Exam_taks\Exam_taks\obj\Debug\netcoreapp2.1\Exam_taks.pdb
