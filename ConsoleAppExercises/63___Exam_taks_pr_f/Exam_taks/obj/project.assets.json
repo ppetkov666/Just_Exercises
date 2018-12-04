@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\predator\\source\\repos\\Exam_taks\\Exam_taks\\Exam_taks.csproj",
+      "projectUniqueName": "F:\\06___VS\\GITHUB\\00___Exersize\\ConsoleAppsExercises\\63___Exam_taks_pr_f\\Exam_taks\\Exam_taks.csproj",
       "projectName": "Exam_taks",
-      "projectPath": "C:\\Users\\predator\\source\\repos\\Exam_taks\\Exam_taks\\Exam_taks.csproj",
+      "projectPath": "F:\\06___VS\\GITHUB\\00___Exersize\\ConsoleAppsExercises\\63___Exam_taks_pr_f\\Exam_taks\\Exam_taks.csproj",
       "packagesPath": "C:\\Users\\predator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\predator\\source\\repos\\Exam_taks\\Exam_taks\\obj\\",
+      "outputPath": "F:\\06___VS\\GITHUB\\00___Exersize\\ConsoleAppsExercises\\63___Exam_taks_pr_f\\Exam_taks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

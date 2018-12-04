@@ -57,8 +57,8 @@ namespace Exam_taks
                 {
                     Console.Write($"{videos.Key} - {videos.Value} views - ");
 
-                    var something = videoLikes.FirstOrDefault(x => x.Key == videos.Key).Value;
-                    Console.WriteLine($"{something} likes");
+                    int numOfLikes = videoLikes.FirstOrDefault(x => x.Key == videos.Key).Value;
+                    Console.WriteLine($"{numOfLikes} likes");
                 }
             }
             else
@@ -67,8 +67,8 @@ namespace Exam_taks
                 {
                     Console.Write($"{video.Key} - {video.Value} views - ");
 
-                    var something = videoLikes.FirstOrDefault(x => x.Key == video.Key).Value;
-                    Console.WriteLine($"{something} likes");
+                    int numOfLikes = videoLikes.FirstOrDefault(x => x.Key == video.Key).Value;
+                    Console.WriteLine($"{numOfLikes} likes");
                 }
             }
 

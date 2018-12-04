@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\predator\\source\\repos\\Exam_taks\\dictionary_simple_task\\dictionary_simple_task.csproj",
+      "projectUniqueName": "F:\\06___VS\\GITHUB\\00___Exersize\\ConsoleAppsExercises\\63___Exam_taks_pr_f\\dictionary_simple_task\\dictionary_simple_task.csproj",
       "projectName": "dictionary_simple_task",
-      "projectPath": "C:\\Users\\predator\\source\\repos\\Exam_taks\\dictionary_simple_task\\dictionary_simple_task.csproj",
+      "projectPath": "F:\\06___VS\\GITHUB\\00___Exersize\\ConsoleAppsExercises\\63___Exam_taks_pr_f\\dictionary_simple_task\\dictionary_simple_task.csproj",
       "packagesPath": "C:\\Users\\predator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\predator\\source\\repos\\Exam_taks\\dictionary_simple_task\\obj\\",
+      "outputPath": "F:\\06___VS\\GITHUB\\00___Exersize\\ConsoleAppsExercises\\63___Exam_taks_pr_f\\dictionary_simple_task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
