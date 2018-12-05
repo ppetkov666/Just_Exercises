@@ -1,0 +1,19 @@
+﻿@model IEnumerable<web_app_demo.Models.User>
+
+@using web_app_demo.Models;
+
+@{
+    ViewBag.Title = "User List";
+}
+
+<div style="font-family:Arial">
+<h2>Index</h2>
+    <ul>
+        @foreach (var user in @Model)
+        {
+            <li>@Html.ActionLink(user.UserName,"Details",new {id = user.UniqueNumber})</li>
+        }
+    </ul>
+</div>
+
+
