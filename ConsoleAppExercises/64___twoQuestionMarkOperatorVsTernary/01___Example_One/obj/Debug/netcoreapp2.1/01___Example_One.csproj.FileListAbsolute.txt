@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01___Example_One.deps.json
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01___Example_One.runtimeconfig.json
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01___Example_One.runtimeconfig.dev.json
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01___Example_One.dll
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01___Example_One.pdb
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01___Example_One.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01___Example_One.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01___Example_One.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01___Example_One.AssemblyInfo.cs
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01___Example_One.dll
+C:\Users\predator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01___Example_One.pdb

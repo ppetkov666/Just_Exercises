@@ -1,0 +1,10 @@
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\bin\Debug\netcoreapp2.1\02___Example_Two.deps.json
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\bin\Debug\netcoreapp2.1\02___Example_Two.runtimeconfig.json
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\bin\Debug\netcoreapp2.1\02___Example_Two.runtimeconfig.dev.json
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\bin\Debug\netcoreapp2.1\02___Example_Two.dll
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\bin\Debug\netcoreapp2.1\02___Example_Two.pdb
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\obj\Debug\netcoreapp2.1\02___Example_Two.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\obj\Debug\netcoreapp2.1\02___Example_Two.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\obj\Debug\netcoreapp2.1\02___Example_Two.AssemblyInfo.cs
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\obj\Debug\netcoreapp2.1\02___Example_Two.dll
+C:\Users\predator\source\repos\ConsoleApp1\02___Example_Two\obj\Debug\netcoreapp2.1\02___Example_Two.pdb
