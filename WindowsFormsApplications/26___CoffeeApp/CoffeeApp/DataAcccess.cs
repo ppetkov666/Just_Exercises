@@ -30,7 +30,7 @@ namespace CoffeeApp
                             Person person = new Person();
                             {
                                 person.Firstname = (string)reader["first_name"];
-                                person.Lastname = (string)reader["last_name"];   
+                                person.Lastname = (string)reader["last_name"];
                             };
                             personList.Add(person);
                         }
@@ -67,12 +67,29 @@ namespace CoffeeApp
             }
             return drinkList;
         }
+        internal DataTable GetDataSet()
+        {
+            SqlConnection connection = new SqlConnection(Helper.CnnStringValue("PetkoDataBase"));
+            using (connection)
+            {
+                connection.Open();
+                string query = $"spe_get_report";
+                // we dont need command because we use SqlDataAdapter and pass the same params
+                //SqlCommand command = new SqlCommand(query, connection);
+                SqlDataAdapter sda = new SqlDataAdapter(query, connection);
+                sda.SelectCommand.CommandType = CommandType.StoredProcedure;
+                DataTable dataTable = new DataTable();
+                sda.Fill(dataTable);
+                return dataTable;
 
-        internal void InsertIntoDB(string fullName, string typeOfDrink,int quantity)
+            }
+        }
+
+        internal void InsertIntoDB(string fullName, string typeOfDrink, int quantity)
         {
             SqlConnection connection = new SqlConnection(Helper.CnnStringValue("PetkoDataBase"));
             string[] splitName = fullName.Split().ToArray();
-            string firtName = splitName[0];
+            string firstName = splitName[0];
             string lastName = splitName[1];
             using (connection)
             {
@@ -85,7 +102,7 @@ namespace CoffeeApp
                         using (SqlCommand command = new SqlCommand(query, connection, transaction))
                         {
                             command.CommandType = CommandType.StoredProcedure;
-                            command.Parameters.AddWithValue("@first_name", firtName);
+                            command.Parameters.AddWithValue("@first_name", firstName);
                             command.Parameters.AddWithValue("@last_name", lastName);
                             command.Parameters.AddWithValue("@type_of_drink", typeOfDrink);
                             command.Parameters.AddWithValue("@quantity", quantity);
@@ -104,22 +121,65 @@ namespace CoffeeApp
                 }
             }
         }
-        public DataTable GetDataSet()
+        internal void InsertUserIntoDB(string firstName, string lastName)
         {
-            // SqlConnection connection = new SqlConnection(Helper.CnnStringValue("PetkoDataBase"));
-            // using (connection)
-            // {
-            //     connection.Open();
-            //     string query = $"spe_get_report";
-            //     SqlDataAdapter sda = new SqlDataAdapter(query,connection);
-            //     sda.SelectCommand.CommandType = CommandType.StoredProcedure;
-            //     DataTable dataTable = new DataTable();
-            //     sda.Fill(dataTable);
-            //     return dataTable;
-            //     
-            // }
-            DataTable dt = new DataTable();
-            return dt;
+            SqlConnection connection = new SqlConnection(Helper.CnnStringValue("PetkoDataBase"));
+            using (connection)
+            {
+                connection.Open();
+                using (SqlTransaction transaction = connection.BeginTransaction())
+                {
+                    try
+                    {
+                        string query = $"spe_insert_user_name";
+                        using (SqlCommand command = new SqlCommand(query, connection, transaction))
+                        {
+                            command.CommandType = CommandType.StoredProcedure;
+                            command.Parameters.AddWithValue("@first_name", firstName);
+                            command.Parameters.AddWithValue("@last_name", lastName);
+                            command.ExecuteNonQuery();
+                        }
+                        transaction.Commit();
+                    }
+                    catch (Exception)
+                    {
+                        if (transaction != null)
+                        {
+                            transaction.Rollback();
+                        }
+                    }
+                }
+            }
+        }
+        internal void InsertDrinks(string drinkName, double price)
+        {
+            SqlConnection connection = new SqlConnection(Helper.CnnStringValue("PetkoDataBase"));
+            using (connection)
+            {
+                connection.Open();
+                using (SqlTransaction transaction = connection.BeginTransaction())
+                {
+                    try
+                    {
+                        string query = $"spe_insert_drink";
+                        using (SqlCommand command = new SqlCommand(query, connection, transaction))
+                        {
+                            command.CommandType = CommandType.StoredProcedure;
+                            command.Parameters.AddWithValue("@drink_name", drinkName);
+                            command.Parameters.AddWithValue("@price", price);
+                            command.ExecuteNonQuery();
+                        }
+                        transaction.Commit();
+                    }
+                    catch (Exception)
+                    {
+                        if (transaction != null)
+                        {
+                            transaction.Rollback();
+                        }
+                    }
+                }
+            }
         }
     }
 }
