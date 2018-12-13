@@ -40,6 +40,37 @@ namespace CoffeeApp
             }
             return personList;
         }
+        internal List<Drink> GetCustomPerson(string firstName, string lastName)
+        {
+            List<Drink> drinkList = new List<Drink>();
+            SqlConnection connection = new SqlConnection(Helper.CnnStringValue("PetkoDataBase"));
+           
+            using (connection)
+            {
+                connection.Open();
+                string query = "spe_get_custom_report";
+                SqlCommand command = new SqlCommand(query, connection);
+                using (command)
+                {
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.AddWithValue("@first_name",firstName);
+                    command.Parameters.AddWithValue("@last_name",lastName);
+                    SqlDataReader reader = command.ExecuteReader();
+                    using (reader)
+                    {
+
+                        while (reader.Read())
+                        {
+                            Drink drink = new Drink();
+                            drink.DrinkName = (string)reader["type of drink"];
+                            drink.Total = (decimal)reader["total"];
+                            drinkList.Add(drink);
+                        }
+                    }
+                }
+            }
+            return drinkList;
+        }
 
         internal List<Drink> GetDrinks()
         {

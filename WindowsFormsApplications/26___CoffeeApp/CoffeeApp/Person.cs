@@ -10,6 +10,8 @@ namespace CoffeeApp
     {
         public string Firstname { get; set; }
         public string Lastname { get; set; }
+        public decimal TotalMoneyToBePaid { get; set; }
+
         public string FullName
         {
             get { return $"{this.Firstname} {this.Lastname}"; }
