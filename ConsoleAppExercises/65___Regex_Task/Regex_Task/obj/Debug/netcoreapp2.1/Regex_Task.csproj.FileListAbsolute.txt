@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\bin\Debug\netcoreapp2.1\Regex_Task.deps.json
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\bin\Debug\netcoreapp2.1\Regex_Task.runtimeconfig.json
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\bin\Debug\netcoreapp2.1\Regex_Task.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\bin\Debug\netcoreapp2.1\Regex_Task.dll
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\bin\Debug\netcoreapp2.1\Regex_Task.pdb
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\obj\Debug\netcoreapp2.1\Regex_Task.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\obj\Debug\netcoreapp2.1\Regex_Task.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\obj\Debug\netcoreapp2.1\Regex_Task.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\obj\Debug\netcoreapp2.1\Regex_Task.AssemblyInfo.cs
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\obj\Debug\netcoreapp2.1\Regex_Task.dll
+C:\Users\predator\source\repos\Regex_Task\Regex_Task\obj\Debug\netcoreapp2.1\Regex_Task.pdb
