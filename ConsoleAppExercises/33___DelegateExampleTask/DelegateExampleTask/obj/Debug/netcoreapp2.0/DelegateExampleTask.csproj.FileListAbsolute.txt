@@ -9,3 +9,14 @@ C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug
 C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.AssemblyInfo.cs
 C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.dll
 C:\Users\predator\source\repos\DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.pdb
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.deps.json
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.runtimeconfig.json
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.runtimeconfig.dev.json
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.dll
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\bin\Debug\netcoreapp2.0\DelegateExampleTask.pdb
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.csprojAssemblyReference.cache
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.csproj.CoreCompileInputs.cache
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.AssemblyInfoInputs.cache
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.AssemblyInfo.cs
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.dll
+F:\06___VS\GITHUB\GIT_PUSHED\just_exercise\ConsoleAppExercises\33___DelegateExampleTask\DelegateExampleTask\obj\Debug\netcoreapp2.0\DelegateExampleTask.pdb

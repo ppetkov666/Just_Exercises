@@ -1,9 +1,13 @@
 ﻿namespace DelegateExampleTask
 {
     using System;
+    using System.Collections.Generic;
+    using System.Text;
+
     class StartUp
     {
         public delegate void SomeMethodPointer();
+        public List<char> alphaBet = new List<char>();
         static void Main(string[] args)
         {
             //  i will explne why the explanation that Delegete is just a pointer to a Function it is not correct
@@ -14,9 +18,12 @@
             // like this : SomeMethod()
 
             // the real use of delegates is callback ... 
-            //to take a method of one class which is MyClass.LongRunning() and to pass another method from other class as parameter through delegate !!!!
-            MyClass objSecontVersion = new MyClass();
-            objSecontVersion.LongRunning(CallBack);
+            //to take a method of one class which is CallBack(int i) 
+            //and to pass another method from other class as parameter through delegate !!!!
+            MyClass objSecondVersion = new MyClass();
+            objSecondVersion.LongRunning(CallBack);
+            MyClass secondExample = new MyClass();
+            secondExample.AlphaBet(AlphaBet);
         }
         static void SomeMethod()
         {
@@ -26,16 +33,31 @@
         {
             Console.WriteLine(i);
         }
+        static void AlphaBet(char letter)
+        {
+            Console.Write(letter);
+            Console.Write(' ');
+        }
     }
     public class MyClass
     {
         public delegate void CallBack(int i);
+        public delegate void AnotherCallBack(char letter);
         public void LongRunning(CallBack obj)
         {
             for (int i = 0; i < 100; i++)
             {
                 // does something
                 obj(i);
+            }
+        }
+
+        public void AlphaBet(AnotherCallBack alphabet)
+        {
+            for (char i = 'a'; i <= 'z'; i++)
+            {
+
+                alphabet(i);
             }
         }
     }

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\predator\\source\\repos\\DelegateExampleTask\\DelegateExampleTask\\DelegateExampleTask.csproj",
+      "projectUniqueName": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\just_exercise\\ConsoleAppExercises\\33___DelegateExampleTask\\DelegateExampleTask\\DelegateExampleTask.csproj",
       "projectName": "DelegateExampleTask",
-      "projectPath": "C:\\Users\\predator\\source\\repos\\DelegateExampleTask\\DelegateExampleTask\\DelegateExampleTask.csproj",
+      "projectPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\just_exercise\\ConsoleAppExercises\\33___DelegateExampleTask\\DelegateExampleTask\\DelegateExampleTask.csproj",
       "packagesPath": "C:\\Users\\predator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\predator\\source\\repos\\DelegateExampleTask\\DelegateExampleTask\\obj\\",
+      "outputPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\just_exercise\\ConsoleAppExercises\\33___DelegateExampleTask\\DelegateExampleTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
