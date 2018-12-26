@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\bin\Debug\netcoreapp2.1\LinkedLIstExamples.deps.json
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\bin\Debug\netcoreapp2.1\LinkedLIstExamples.runtimeconfig.json
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\bin\Debug\netcoreapp2.1\LinkedLIstExamples.runtimeconfig.dev.json
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\bin\Debug\netcoreapp2.1\LinkedLIstExamples.dll
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\bin\Debug\netcoreapp2.1\LinkedLIstExamples.pdb
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\obj\Debug\netcoreapp2.1\LinkedLIstExamples.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\obj\Debug\netcoreapp2.1\LinkedLIstExamples.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\obj\Debug\netcoreapp2.1\LinkedLIstExamples.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\obj\Debug\netcoreapp2.1\LinkedLIstExamples.AssemblyInfo.cs
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\obj\Debug\netcoreapp2.1\LinkedLIstExamples.dll
+C:\Users\predator\source\repos\LinkedLIstExamples\LinkedLIstExamples\obj\Debug\netcoreapp2.1\LinkedLIstExamples.pdb
