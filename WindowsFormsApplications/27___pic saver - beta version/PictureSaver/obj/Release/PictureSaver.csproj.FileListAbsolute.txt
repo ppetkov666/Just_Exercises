@@ -1,0 +1,8 @@
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\bin\Release\PictureSaver.exe
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\bin\Release\PictureSaver.pdb
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Release\PictureSaver.Properties.Resources.resources
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Release\PictureSaver.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Release\PictureSaver.exe
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Release\PictureSaver.pdb
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Release\PictureSaver.PicSvrFrm.resources

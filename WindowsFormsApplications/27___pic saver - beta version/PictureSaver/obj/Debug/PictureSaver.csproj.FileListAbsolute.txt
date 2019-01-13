@@ -1,0 +1,41 @@
+C:\Users\user1\AppData\Local\Temporary Projects\PictureSaver\bin\Debug\PictureSaver.exe
+C:\Users\user1\AppData\Local\Temporary Projects\PictureSaver\bin\Debug\PictureSaver.pdb
+C:\Users\user1\AppData\Local\Temporary Projects\PictureSaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user1\AppData\Local\Temporary Projects\PictureSaver\obj\Debug\PictureSaver.PictureSaverFrm.resources
+C:\Users\user1\AppData\Local\Temporary Projects\PictureSaver\obj\Debug\PictureSaver.Properties.Resources.resources
+C:\Users\user1\AppData\Local\Temporary Projects\PictureSaver\obj\Debug\PictureSaver.csproj.GenerateResource.Cache
+C:\Users\user1\AppData\Local\Temporary Projects\PictureSaver\obj\Debug\PictureSaver.exe
+C:\Users\user1\AppData\Local\Temporary Projects\PictureSaver\obj\Debug\PictureSaver.pdb
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.exe
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.pdb
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\bin\Debug\PictureSaver.exe
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\bin\Debug\PictureSaver.pdb
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.Properties.Resources.resources
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\Languages\Documents\Visual Studio 2008\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.PicSvrFrm.resources
+C:\Users\user1\Desktop\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.exe
+C:\Users\user1\Desktop\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.pdb
+C:\Users\user1\Desktop\stuff\Projects\PictureSaver\PictureSaver\bin\Debug\PictureSaver.exe
+C:\Users\user1\Desktop\stuff\Projects\PictureSaver\PictureSaver\bin\Debug\PictureSaver.pdb
+C:\Users\user1\Desktop\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.PicSvrFrm.resources
+C:\Users\user1\Desktop\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.Properties.Resources.resources
+C:\Users\user1\Desktop\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.csproj.GenerateResource.Cache
+C:\kaloyan\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.exe
+C:\kaloyan\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.pdb
+C:\kaloyan\stuff\Projects\PictureSaver\PictureSaver\bin\Debug\PictureSaver.exe
+C:\kaloyan\stuff\Projects\PictureSaver\PictureSaver\bin\Debug\PictureSaver.pdb
+C:\kaloyan\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.csprojResolveAssemblyReference.cache
+C:\kaloyan\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.PicSvrFrm.resources
+C:\kaloyan\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.Properties.Resources.resources
+C:\kaloyan\stuff\Projects\PictureSaver\PictureSaver\obj\Debug\PictureSaver.csproj.GenerateResource.Cache
+C:\Users\predator\Desktop\PictureSaver\PictureSaver\PictureSaver\bin\Debug\PictureSaver.exe
+C:\Users\predator\Desktop\PictureSaver\PictureSaver\PictureSaver\bin\Debug\PictureSaver.pdb
+C:\Users\predator\Desktop\PictureSaver\PictureSaver\PictureSaver\obj\Debug\PictureSaver.csprojAssemblyReference.cache
+C:\Users\predator\Desktop\PictureSaver\PictureSaver\PictureSaver\obj\Debug\PictureSaver.PicSvrFrm.resources
+C:\Users\predator\Desktop\PictureSaver\PictureSaver\PictureSaver\obj\Debug\PictureSaver.Properties.Resources.resources
+C:\Users\predator\Desktop\PictureSaver\PictureSaver\PictureSaver\obj\Debug\PictureSaver.csproj.GenerateResource.cache
+C:\Users\predator\Desktop\PictureSaver\PictureSaver\PictureSaver\obj\Debug\PictureSaver.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\PictureSaver\PictureSaver\PictureSaver\obj\Debug\PictureSaver.exe
+C:\Users\predator\Desktop\PictureSaver\PictureSaver\PictureSaver\obj\Debug\PictureSaver.pdb
