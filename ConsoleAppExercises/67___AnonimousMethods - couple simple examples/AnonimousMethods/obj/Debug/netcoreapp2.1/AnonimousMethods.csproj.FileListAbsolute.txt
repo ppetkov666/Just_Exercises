@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\bin\Debug\netcoreapp2.1\AnonimousMethods.deps.json
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\bin\Debug\netcoreapp2.1\AnonimousMethods.runtimeconfig.json
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\bin\Debug\netcoreapp2.1\AnonimousMethods.runtimeconfig.dev.json
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\bin\Debug\netcoreapp2.1\AnonimousMethods.dll
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\bin\Debug\netcoreapp2.1\AnonimousMethods.pdb
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\obj\Debug\netcoreapp2.1\AnonimousMethods.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\obj\Debug\netcoreapp2.1\AnonimousMethods.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\obj\Debug\netcoreapp2.1\AnonimousMethods.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\obj\Debug\netcoreapp2.1\AnonimousMethods.AssemblyInfo.cs
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\obj\Debug\netcoreapp2.1\AnonimousMethods.dll
+C:\Users\predator\source\repos\AnonimousMethods\AnonimousMethods\obj\Debug\netcoreapp2.1\AnonimousMethods.pdb
