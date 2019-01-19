@@ -1,0 +1,10 @@
+C:\Users\predator\source\repos\FileCounter\FileCounter\bin\Debug\FileCounter.exe.config
+C:\Users\predator\source\repos\FileCounter\FileCounter\bin\Debug\FileCounter.exe
+C:\Users\predator\source\repos\FileCounter\FileCounter\bin\Debug\FileCounter.pdb
+C:\Users\predator\source\repos\FileCounter\FileCounter\obj\Debug\FileCounter.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\FileCounter\FileCounter\obj\Debug\FileCounter.FileCounter.resources
+C:\Users\predator\source\repos\FileCounter\FileCounter\obj\Debug\FileCounter.Properties.Resources.resources
+C:\Users\predator\source\repos\FileCounter\FileCounter\obj\Debug\FileCounter.csproj.GenerateResource.cache
+C:\Users\predator\source\repos\FileCounter\FileCounter\obj\Debug\FileCounter.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\FileCounter\FileCounter\obj\Debug\FileCounter.exe
+C:\Users\predator\source\repos\FileCounter\FileCounter\obj\Debug\FileCounter.pdb
