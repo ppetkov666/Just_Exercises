@@ -1,0 +1,10 @@
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\bin\Debug\FileCunterV2.exe.config
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\bin\Debug\FileCunterV2.exe
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\bin\Debug\FileCunterV2.pdb
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\obj\Debug\FileCunterV2.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\obj\Debug\FileCunterV2.Form1.resources
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\obj\Debug\FileCunterV2.Properties.Resources.resources
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\obj\Debug\FileCunterV2.csproj.GenerateResource.cache
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\obj\Debug\FileCunterV2.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\obj\Debug\FileCunterV2.exe
+C:\Users\predator\source\repos\FileCunterV2\FileCunterV2\obj\Debug\FileCunterV2.pdb
