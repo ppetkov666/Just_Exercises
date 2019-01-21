@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\bin\Debug\netcoreapp2.1\Thread_protect_resources.deps.json
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\bin\Debug\netcoreapp2.1\Thread_protect_resources.runtimeconfig.json
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\bin\Debug\netcoreapp2.1\Thread_protect_resources.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\bin\Debug\netcoreapp2.1\Thread_protect_resources.dll
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\bin\Debug\netcoreapp2.1\Thread_protect_resources.pdb
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\obj\Debug\netcoreapp2.1\Thread_protect_resources.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\obj\Debug\netcoreapp2.1\Thread_protect_resources.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\obj\Debug\netcoreapp2.1\Thread_protect_resources.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\obj\Debug\netcoreapp2.1\Thread_protect_resources.AssemblyInfo.cs
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\obj\Debug\netcoreapp2.1\Thread_protect_resources.dll
+C:\Users\predator\source\repos\Thread_protect_resources\Thread_protect_resources\obj\Debug\netcoreapp2.1\Thread_protect_resources.pdb
