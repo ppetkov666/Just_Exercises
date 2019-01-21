@@ -44,6 +44,7 @@ namespace Event_Example_task
         public string Name { get; set; }
         public void ExamRetake(string name,string examDate)
         {
+            
             // first option
             //Teacher t = new Teacher();
             //t.Name = name;

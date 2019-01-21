@@ -9,3 +9,14 @@ C:\Users\predator\source\repos\Event_Example_task\Event_Example_task\obj\Debug\n
 C:\Users\predator\source\repos\Event_Example_task\Event_Example_task\obj\Debug\netcoreapp2.1\01___Event_Example_task.AssemblyInfo.cs
 C:\Users\predator\source\repos\Event_Example_task\Event_Example_task\obj\Debug\netcoreapp2.1\01___Event_Example_task.dll
 C:\Users\predator\source\repos\Event_Example_task\Event_Example_task\obj\Debug\netcoreapp2.1\01___Event_Example_task.pdb
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\bin\Debug\netcoreapp2.1\01___Event_Example_task.deps.json
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\bin\Debug\netcoreapp2.1\01___Event_Example_task.runtimeconfig.json
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\bin\Debug\netcoreapp2.1\01___Event_Example_task.runtimeconfig.dev.json
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\bin\Debug\netcoreapp2.1\01___Event_Example_task.dll
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\bin\Debug\netcoreapp2.1\01___Event_Example_task.pdb
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\obj\Debug\netcoreapp2.1\01___Event_Example_task.csprojAssemblyReference.cache
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\obj\Debug\netcoreapp2.1\01___Event_Example_task.csproj.CoreCompileInputs.cache
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\obj\Debug\netcoreapp2.1\01___Event_Example_task.AssemblyInfoInputs.cache
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\obj\Debug\netcoreapp2.1\01___Event_Example_task.AssemblyInfo.cs
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\obj\Debug\netcoreapp2.1\01___Event_Example_task.dll
+D:\06___VS\GITHUB\00___Exersize\ConsoleAppsExercises\55___Event_Example_task\Event_Example_task\obj\Debug\netcoreapp2.1\01___Event_Example_task.pdb

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\predator\\source\\repos\\Event_Example_task\\03___Third_event_example\\03___Third_event_example.csproj",
+      "projectUniqueName": "D:\\06___VS\\GITHUB\\00___Exersize\\ConsoleAppsExercises\\55___Event_Example_task\\03___Third_event_example\\03___Third_event_example.csproj",
       "projectName": "03___Third_event_example",
-      "projectPath": "C:\\Users\\predator\\source\\repos\\Event_Example_task\\03___Third_event_example\\03___Third_event_example.csproj",
+      "projectPath": "D:\\06___VS\\GITHUB\\00___Exersize\\ConsoleAppsExercises\\55___Event_Example_task\\03___Third_event_example\\03___Third_event_example.csproj",
       "packagesPath": "C:\\Users\\predator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\predator\\source\\repos\\Event_Example_task\\03___Third_event_example\\obj\\",
+      "outputPath": "D:\\06___VS\\GITHUB\\00___Exersize\\ConsoleAppsExercises\\55___Event_Example_task\\03___Third_event_example\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -10,7 +10,7 @@ namespace _02___Second_Example_Event
         {
             Button button = new Button();
             button.Click += Button_Click;
-            var input = Console.ReadLine();
+            string input = Console.ReadLine();
 
             if (input == "enter")
             {
