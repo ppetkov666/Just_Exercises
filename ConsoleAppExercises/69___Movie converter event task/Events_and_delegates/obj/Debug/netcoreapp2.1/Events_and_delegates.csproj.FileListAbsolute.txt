@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\bin\Debug\netcoreapp2.1\Events_and_delegates.deps.json
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\bin\Debug\netcoreapp2.1\Events_and_delegates.runtimeconfig.json
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\bin\Debug\netcoreapp2.1\Events_and_delegates.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\bin\Debug\netcoreapp2.1\Events_and_delegates.dll
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\bin\Debug\netcoreapp2.1\Events_and_delegates.pdb
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\obj\Debug\netcoreapp2.1\Events_and_delegates.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\obj\Debug\netcoreapp2.1\Events_and_delegates.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\obj\Debug\netcoreapp2.1\Events_and_delegates.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\obj\Debug\netcoreapp2.1\Events_and_delegates.AssemblyInfo.cs
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\obj\Debug\netcoreapp2.1\Events_and_delegates.dll
+C:\Users\predator\source\repos\Events_and_delegates\Events_and_delegates\obj\Debug\netcoreapp2.1\Events_and_delegates.pdb
