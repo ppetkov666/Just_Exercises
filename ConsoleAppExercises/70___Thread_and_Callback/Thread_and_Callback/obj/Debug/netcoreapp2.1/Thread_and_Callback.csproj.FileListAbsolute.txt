@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\obj\Debug\netcoreapp2.1\Thread_and_Callback.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\obj\Debug\netcoreapp2.1\Thread_and_Callback.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\obj\Debug\netcoreapp2.1\Thread_and_Callback.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\obj\Debug\netcoreapp2.1\Thread_and_Callback.AssemblyInfo.cs
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\bin\Debug\netcoreapp2.1\Thread_and_Callback.deps.json
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\bin\Debug\netcoreapp2.1\Thread_and_Callback.runtimeconfig.json
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\bin\Debug\netcoreapp2.1\Thread_and_Callback.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\bin\Debug\netcoreapp2.1\Thread_and_Callback.dll
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\bin\Debug\netcoreapp2.1\Thread_and_Callback.pdb
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\obj\Debug\netcoreapp2.1\Thread_and_Callback.dll
+C:\Users\predator\source\repos\Thread_and_Callback\Thread_and_Callback\obj\Debug\netcoreapp2.1\Thread_and_Callback.pdb
