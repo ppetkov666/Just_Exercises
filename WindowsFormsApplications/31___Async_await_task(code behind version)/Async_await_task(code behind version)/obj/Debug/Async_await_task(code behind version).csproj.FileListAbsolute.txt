@@ -1,0 +1,10 @@
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\bin\Debug\Async_await_task(code behind version).exe.config
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\bin\Debug\Async_await_task(code behind version).exe
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\bin\Debug\Async_await_task(code behind version).pdb
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\obj\Debug\Async_await_task(code behind version).csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\obj\Debug\Async_await_task_code_behind_version_.Form1.resources
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\obj\Debug\Async_await_task_code_behind_version_.Properties.Resources.resources
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\obj\Debug\Async_await_task(code behind version).csproj.GenerateResource.cache
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\obj\Debug\Async_await_task(code behind version).csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\obj\Debug\Async_await_task(code behind version).exe
+C:\Users\predator\source\repos\Async_await_task(code behind version)\Async_await_task(code behind version)\obj\Debug\Async_await_task(code behind version).pdb
