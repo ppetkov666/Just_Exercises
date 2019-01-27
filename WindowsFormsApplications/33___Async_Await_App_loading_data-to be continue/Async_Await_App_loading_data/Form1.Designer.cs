@@ -93,7 +93,7 @@ namespace Async_Await_App_loading_data
             this.btn_parallel_async.Text = "Execute Parallel Async";
             this.btn_parallel_async.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
             this.btn_parallel_async.UseVisualStyleBackColor = true;
-            this.btn_parallel_async.Click += new System.EventHandler(this.btn_parallel_async_Click);
+            this.btn_parallel_async.Click += new System.EventHandler(this.Btn_parallel_async_Click);
             // 
             // btn_cancel
             // 
@@ -103,12 +103,12 @@ namespace Async_Await_App_loading_data
             this.btn_cancel.TabIndex = 6;
             this.btn_cancel.Text = "Cancel";
             this.btn_cancel.UseVisualStyleBackColor = true;
-            this.btn_cancel.Click += new System.EventHandler(this.btn_cancel_Click);
+            this.btn_cancel.Click += new System.EventHandler(this.Btn_cancel_Click);
             // 
             // backgroundWorker1
             // 
             this.backgroundWorker1.WorkerReportsProgress = true;
-            this.backgroundWorker1.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.backgroundWorker1_ProgressChanged);
+            this.backgroundWorker1.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.BackgroundWorker1_ProgressChanged);
             // 
             // progress
             //
