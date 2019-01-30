@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\bin\Debug\netcoreapp2.1\01___Thread_operations_example_one.deps.json
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\bin\Debug\netcoreapp2.1\01___Thread_operations_example_one.runtimeconfig.json
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\bin\Debug\netcoreapp2.1\01___Thread_operations_example_one.runtimeconfig.dev.json
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\bin\Debug\netcoreapp2.1\01___Thread_operations_example_one.dll
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\bin\Debug\netcoreapp2.1\01___Thread_operations_example_one.pdb
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\obj\Debug\netcoreapp2.1\01___Thread_operations_example_one.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\obj\Debug\netcoreapp2.1\01___Thread_operations_example_one.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\obj\Debug\netcoreapp2.1\01___Thread_operations_example_one.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\obj\Debug\netcoreapp2.1\01___Thread_operations_example_one.AssemblyInfo.cs
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\obj\Debug\netcoreapp2.1\01___Thread_operations_example_one.dll
+C:\Users\predator\source\repos\Thread_operations\Thread_operations\obj\Debug\netcoreapp2.1\01___Thread_operations_example_one.pdb

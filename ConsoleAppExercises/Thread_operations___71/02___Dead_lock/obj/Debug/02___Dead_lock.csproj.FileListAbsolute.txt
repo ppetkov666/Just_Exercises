@@ -1,0 +1,7 @@
+C:\Users\predator\source\repos\Thread_operations\02___Dead_lock\bin\Debug\02___Dead_lock.exe.config
+C:\Users\predator\source\repos\Thread_operations\02___Dead_lock\bin\Debug\02___Dead_lock.exe
+C:\Users\predator\source\repos\Thread_operations\02___Dead_lock\bin\Debug\02___Dead_lock.pdb
+C:\Users\predator\source\repos\Thread_operations\02___Dead_lock\obj\Debug\02___Dead_lock.csprojAssemblyReference.cache
+C:\Users\predator\source\repos\Thread_operations\02___Dead_lock\obj\Debug\02___Dead_lock.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Thread_operations\02___Dead_lock\obj\Debug\02___Dead_lock.exe
+C:\Users\predator\source\repos\Thread_operations\02___Dead_lock\obj\Debug\02___Dead_lock.pdb

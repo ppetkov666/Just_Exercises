@@ -1,0 +1,7 @@
+C:\Users\predator\source\repos\Thread_operations\03___Tasks\bin\Debug\03___Tasks.exe.config
+C:\Users\predator\source\repos\Thread_operations\03___Tasks\bin\Debug\03___Tasks.exe
+C:\Users\predator\source\repos\Thread_operations\03___Tasks\bin\Debug\03___Tasks.pdb
+C:\Users\predator\source\repos\Thread_operations\03___Tasks\obj\Debug\03___Tasks.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\Thread_operations\03___Tasks\obj\Debug\03___Tasks.exe
+C:\Users\predator\source\repos\Thread_operations\03___Tasks\obj\Debug\03___Tasks.pdb
+C:\Users\predator\source\repos\Thread_operations\03___Tasks\obj\Debug\03___Tasks.csprojAssemblyReference.cache
