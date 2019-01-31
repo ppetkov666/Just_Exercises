@@ -1,4 +1,4 @@
-﻿namespace _12___SimpleDataBindingExample
+﻿namespace _01___WFDataSetexample
 {
     partial class MainForm
     {
@@ -52,7 +52,7 @@
             this.bShowTownName.TabIndex = 1;
             this.bShowTownName.Text = "Show Town Name";
             this.bShowTownName.UseVisualStyleBackColor = true;
-            this.bShowTownName.Click += new System.EventHandler(this.bShowTownName_Click);
+            this.bShowTownName.Click += new System.EventHandler(this.BShowTownName_Click);
             // 
             // lblId
             // 
@@ -71,7 +71,7 @@
             this.tbTextBoxTownName.Name = "tbTextBoxTownName";
             this.tbTextBoxTownName.Size = new System.Drawing.Size(210, 26);
             this.tbTextBoxTownName.TabIndex = 3;
-            this.tbTextBoxTownName.TextChanged += new System.EventHandler(this.tbTextBoxTownName_TextChanged);
+            this.tbTextBoxTownName.TextChanged += new System.EventHandler(this.TbTextBoxTownName_TextChanged);
             // 
             // lblTownName
             // 

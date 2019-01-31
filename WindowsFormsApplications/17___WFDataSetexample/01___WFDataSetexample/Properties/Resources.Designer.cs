@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _12___SimpleDataBindingExample.Properties
+namespace _01___WFDataSetexample.Properties
 {
 
 

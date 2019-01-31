@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _12___SimpleDataBindingExample
+namespace _01___WFDataSetexample
 {
     static class StartUp
     {
