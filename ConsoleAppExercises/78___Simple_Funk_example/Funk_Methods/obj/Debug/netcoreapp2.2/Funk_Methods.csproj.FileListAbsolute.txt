@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\bin\Debug\netcoreapp2.2\Funk_Methods.deps.json
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\bin\Debug\netcoreapp2.2\Funk_Methods.runtimeconfig.json
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\bin\Debug\netcoreapp2.2\Funk_Methods.runtimeconfig.dev.json
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\bin\Debug\netcoreapp2.2\Funk_Methods.dll
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\bin\Debug\netcoreapp2.2\Funk_Methods.pdb
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\obj\Debug\netcoreapp2.2\Funk_Methods.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\obj\Debug\netcoreapp2.2\Funk_Methods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\obj\Debug\netcoreapp2.2\Funk_Methods.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\obj\Debug\netcoreapp2.2\Funk_Methods.AssemblyInfo.cs
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\obj\Debug\netcoreapp2.2\Funk_Methods.dll
+C:\Users\user\source\repos\Funk_Methods\Funk_Methods\obj\Debug\netcoreapp2.2\Funk_Methods.pdb
