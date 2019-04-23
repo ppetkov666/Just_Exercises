@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="new.SoftUni"
+  DTS:DTSID="{CD2AC95C-DB42-4CB8-A65D-61CD6A226985}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=new;Initial Catalog=SoftUni;Integrated Security=True;Application Name=SSIS-My_first_project-{CD2AC95C-DB42-4CB8-A65D-61CD6A226985}new.SoftUni;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
