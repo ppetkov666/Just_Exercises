@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\bin\Debug\netcoreapp2.1\Second_example.deps.json
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\bin\Debug\netcoreapp2.1\Second_example.runtimeconfig.json
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\bin\Debug\netcoreapp2.1\Second_example.runtimeconfig.dev.json
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\bin\Debug\netcoreapp2.1\Second_example.dll
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\bin\Debug\netcoreapp2.1\Second_example.pdb
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\obj\Debug\netcoreapp2.1\Second_example.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\obj\Debug\netcoreapp2.1\Second_example.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\obj\Debug\netcoreapp2.1\Second_example.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\obj\Debug\netcoreapp2.1\Second_example.AssemblyInfo.cs
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\obj\Debug\netcoreapp2.1\Second_example.dll
+C:\Users\User\source\repos\Output_Param_Funk\Second_example\obj\Debug\netcoreapp2.1\Second_example.pdb

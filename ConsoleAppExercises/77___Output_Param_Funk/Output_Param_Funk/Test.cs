@@ -5,11 +5,15 @@ namespace Output_Param_Funk
     using System;
     public class Test
     {
-        public void GetNums(out int firstNumber, out int secondNumber)
+        public void Add(int firstNum,int secondNum,out int firstNumber, out int secondNumber)
         {
-            System.Console.WriteLine("Enter your first number: ");
-            firstNumber = int.Parse(Console.ReadLine());
-            secondNumber = int.Parse(Console.ReadLine());
+            System.Console.WriteLine("Enter the value to change: ");
+            int firstN = int.Parse(Console.ReadLine());
+            System.Console.WriteLine("Enter the value to change: ");
+            int secondN = int.Parse(Console.ReadLine());
+            firstNumber = firstN;
+            secondNumber = secondN;
+
 
         }
     }

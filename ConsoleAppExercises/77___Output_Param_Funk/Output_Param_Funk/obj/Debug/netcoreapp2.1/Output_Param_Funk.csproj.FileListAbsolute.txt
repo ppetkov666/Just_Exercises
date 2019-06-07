@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\bin\Debug\netcoreapp2.1\Output_Param_Funk.deps.json
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\bin\Debug\netcoreapp2.1\Output_Param_Funk.runtimeconfig.json
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\bin\Debug\netcoreapp2.1\Output_Param_Funk.runtimeconfig.dev.json
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\bin\Debug\netcoreapp2.1\Output_Param_Funk.dll
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\bin\Debug\netcoreapp2.1\Output_Param_Funk.pdb
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\obj\Debug\netcoreapp2.1\Output_Param_Funk.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\obj\Debug\netcoreapp2.1\Output_Param_Funk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\obj\Debug\netcoreapp2.1\Output_Param_Funk.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\obj\Debug\netcoreapp2.1\Output_Param_Funk.AssemblyInfo.cs
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\obj\Debug\netcoreapp2.1\Output_Param_Funk.dll
+C:\Users\User\source\repos\Output_Param_Funk\Output_Param_Funk\obj\Debug\netcoreapp2.1\Output_Param_Funk.pdb
