@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\bin\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.deps.json
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\bin\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.runtimeconfig.json
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\bin\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.runtimeconfig.dev.json
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\bin\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.dll
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\bin\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.pdb
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\obj\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\obj\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\obj\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\obj\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.AssemblyInfo.cs
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\obj\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.dll
+C:\Users\User\source\repos\Volatile_keyword_MultiThreading\Volatile_keyword_MultiThreading\obj\Debug\netcoreapp2.2\Volatile_keyword_MultiThreading.pdb
