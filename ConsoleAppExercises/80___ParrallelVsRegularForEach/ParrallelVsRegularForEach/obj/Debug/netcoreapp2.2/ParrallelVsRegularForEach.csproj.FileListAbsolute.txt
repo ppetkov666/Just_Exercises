@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\bin\Debug\netcoreapp2.2\ParrallelVsRegularForEach.deps.json
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\bin\Debug\netcoreapp2.2\ParrallelVsRegularForEach.runtimeconfig.json
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\bin\Debug\netcoreapp2.2\ParrallelVsRegularForEach.runtimeconfig.dev.json
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\bin\Debug\netcoreapp2.2\ParrallelVsRegularForEach.dll
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\bin\Debug\netcoreapp2.2\ParrallelVsRegularForEach.pdb
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\obj\Debug\netcoreapp2.2\ParrallelVsRegularForEach.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\obj\Debug\netcoreapp2.2\ParrallelVsRegularForEach.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\obj\Debug\netcoreapp2.2\ParrallelVsRegularForEach.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\obj\Debug\netcoreapp2.2\ParrallelVsRegularForEach.AssemblyInfo.cs
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\obj\Debug\netcoreapp2.2\ParrallelVsRegularForEach.dll
+C:\Users\User\source\repos\ParrallelVsRegularForEach\ParrallelVsRegularForEach\obj\Debug\netcoreapp2.2\ParrallelVsRegularForEach.pdb
