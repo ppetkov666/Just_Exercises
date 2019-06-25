@@ -56,14 +56,27 @@ namespace CoffeeApp
                     command.Parameters.AddWithValue("@first_name",firstName);
                     command.Parameters.AddWithValue("@last_name",lastName);
                     SqlDataReader reader = command.ExecuteReader();
+                    //using (reader)
+                    //{
+                    //    while (reader.Read())
+                    //    {
+                    //        Drink drink = new Drink();
+                    //        drink.DrinkName = reader.GetSqlValue(0).ToString();
+                    //        drink.DrinkQuantity = decimal.Parse(reader.GetSqlValue(1).ToString());
+                    //        drink.Total = decimal.Parse(reader.GetSqlValue(3).ToString());
+
+                    //        drinkList.Add(drink);
+                    //    }
+                    //}
                     using (reader)
                     {
-
                         while (reader.Read())
                         {
                             Drink drink = new Drink();
                             drink.DrinkName = (string)reader["type of drink"];
                             drink.Total = (decimal)reader["total"];
+                            drink.DrinkQuantity = (decimal)reader["quantity"];
+
                             drinkList.Add(drink);
                         }
                     }

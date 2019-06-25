@@ -128,7 +128,7 @@
             "30"});
             this.cb_quantity.Location = new System.Drawing.Point(120, 100);
             this.cb_quantity.Name = "cb_quantity";
-            this.cb_quantity.Size = new System.Drawing.Size(270, 28);
+            this.cb_quantity.Size = new System.Drawing.Size(270, 24);
             this.cb_quantity.TabIndex = 5;
             // 
             // cb_drinks
@@ -137,7 +137,7 @@
             this.cb_drinks.FormattingEnabled = true;
             this.cb_drinks.Location = new System.Drawing.Point(120, 70);
             this.cb_drinks.Name = "cb_drinks";
-            this.cb_drinks.Size = new System.Drawing.Size(270, 28);
+            this.cb_drinks.Size = new System.Drawing.Size(270, 24);
             this.cb_drinks.TabIndex = 4;
             // 
             // cb_users
@@ -146,7 +146,7 @@
             this.cb_users.FormattingEnabled = true;
             this.cb_users.Location = new System.Drawing.Point(120, 40);
             this.cb_users.Name = "cb_users";
-            this.cb_users.Size = new System.Drawing.Size(270, 28);
+            this.cb_users.Size = new System.Drawing.Size(270, 24);
             this.cb_users.TabIndex = 3;
             // 
             // lbl_quantity
@@ -154,7 +154,7 @@
             this.lbl_quantity.AutoSize = true;
             this.lbl_quantity.Location = new System.Drawing.Point(12, 100);
             this.lbl_quantity.Name = "lbl_quantity";
-            this.lbl_quantity.Size = new System.Drawing.Size(68, 20);
+            this.lbl_quantity.Size = new System.Drawing.Size(61, 17);
             this.lbl_quantity.TabIndex = 2;
             this.lbl_quantity.Text = "Quantity";
             // 
@@ -163,7 +163,7 @@
             this.lbl_choose_drink.AutoSize = true;
             this.lbl_choose_drink.Location = new System.Drawing.Point(12, 70);
             this.lbl_choose_drink.Name = "lbl_choose_drink";
-            this.lbl_choose_drink.Size = new System.Drawing.Size(84, 20);
+            this.lbl_choose_drink.Size = new System.Drawing.Size(77, 17);
             this.lbl_choose_drink.TabIndex = 1;
             this.lbl_choose_drink.Text = "Drink Type";
             // 
@@ -172,7 +172,7 @@
             this.lbl_choose_user.AutoSize = true;
             this.lbl_choose_user.Location = new System.Drawing.Point(12, 40);
             this.lbl_choose_user.Name = "lbl_choose_user";
-            this.lbl_choose_user.Size = new System.Drawing.Size(148, 20);
+            this.lbl_choose_user.Size = new System.Drawing.Size(131, 17);
             this.lbl_choose_user.TabIndex = 0;
             this.lbl_choose_user.Text = "Choose User Name";
             // 
@@ -182,7 +182,7 @@
             this.b_return_to_main_page.Name = "b_return_to_main_page";
             this.b_return_to_main_page.Size = new System.Drawing.Size(150, 28);
             this.b_return_to_main_page.TabIndex = 2;
-            this.b_return_to_main_page.Text = "Return to Main Menu";
+            this.b_return_to_main_page.Text = "Return To Main Menu";
             this.b_return_to_main_page.UseVisualStyleBackColor = true;
             this.b_return_to_main_page.Click += new System.EventHandler(this.b_return_to_main_page_Click);
             // 
@@ -229,7 +229,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "f_main_form";
-            this.Text = "coffee_app_form";
+            this.Text = "Coffee";
             this.Load += new System.EventHandler(this.Main_form_load);
             this.DisplayPnl.ResumeLayout(false);
             this.DisplayPnl.PerformLayout();

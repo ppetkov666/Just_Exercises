@@ -1,5 +1,4 @@
-﻿
-namespace CoffeeApp
+﻿namespace CoffeeApp
 {
     using System;
     using System.Collections.Generic;

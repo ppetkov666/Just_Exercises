@@ -10,9 +10,11 @@ namespace CoffeeApp
     {
         public string DrinkName { get; set; }
         public decimal Total { get; set; }
+        public decimal DrinkQuantity { get; set; }
+
         public string DetailedInfo
         {
-            get { return $"{this.DrinkName} - {this.Total:f2} leva"; }
+            get { return $"Drink Type: {this.DrinkName}, Quantity: {DrinkQuantity:f0}, Total Amount: {this.Total:f2} leva"; }
 
         }
        
