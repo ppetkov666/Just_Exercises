@@ -1,0 +1,3 @@
+This app is signed, so the only thing it must be done is to start PUBLISH wizard from publish menu located in menu Properties on the Solution Explorer in Visual studio.
+There is default dir which create folder on the desktop with appliation version and everytime when change it's made, and published from the button PUBLISH NOW new application version will be added to this directory. 
+In my example dir is : "\\localhost\c$\Users\User\Desktop\deploy\" which is local dir on my pc

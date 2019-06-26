@@ -1,0 +1,14 @@
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\bin\Debug\CoffeeApp.exe.config
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\bin\Debug\CoffeeApp.exe.manifest
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\bin\Debug\CoffeeApp.application
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\bin\Debug\CoffeeApp.exe
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\bin\Debug\CoffeeApp.pdb
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\obj\Debug\CoffeeApp.csprojAssemblyReference.cache
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\obj\Debug\CoffeeApp.f_main_form.resources
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\obj\Debug\CoffeeApp.Properties.Resources.resources
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\obj\Debug\CoffeeApp.csproj.GenerateResource.cache
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\obj\Debug\CoffeeApp.csproj.CoreCompileInputs.cache
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\obj\Debug\CoffeeApp.exe.manifest
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\obj\Debug\CoffeeApp.application
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\obj\Debug\CoffeeApp.exe
+D:\06___VS\GITHUB\00___Exersize\WindowsFormsApplications\26___CoffeeApp_basic\CoffeeApp\obj\Debug\CoffeeApp.pdb
