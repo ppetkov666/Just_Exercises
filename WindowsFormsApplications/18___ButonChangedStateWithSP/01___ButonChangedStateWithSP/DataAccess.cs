@@ -12,7 +12,7 @@ namespace _01___WFDinamicallyCreatedButtons
 
     public class DataAccess
     {
-        public void ChangeState()
+        public void ChangeState(string state_value)
         {
             SqlConnection connection = new SqlConnection(Helper.ConnectionStringValue("PetkoTestDB"));
 
@@ -25,6 +25,7 @@ namespace _01___WFDinamicallyCreatedButtons
                 using (SqlCommand command = new SqlCommand(spquery,connection))
                 {
                     command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.AddWithValue("@state_change_value", state_value);
                     command.ExecuteNonQuery();
                 }
             }
