@@ -9,19 +9,18 @@
         public IRandomNumberProvider _randomNumberProvider;
 
 
-        public Business()
-            :this(new TestDataProvider(), new RandomProvider())
-        {
+        //public Business() : this(new TestDataProvider(), new RandomProvider())
+        //{
 
-        }
-        public Business(IDataProvider dataProvider)
+        //}
+        
+        //public Business(IDataProvider dataProvider)
+        //{
+        //    this._dataProvider = dataProvider;
+        //}
+        public Business(IDataProvider dataProvider, IRandomNumberProvider randomNumberProvider) //: this(dataProvider)
         {
             this._dataProvider = dataProvider;
-        }
-        public Business(IDataProvider dataProvider, IRandomNumberProvider randomNumberProvider)
-            :this(dataProvider)
-        {
-            //this._dataProvider = dataProvider;
             this._randomNumberProvider = randomNumberProvider;
         }
 
@@ -54,13 +53,15 @@
 
         }
 
-        public string RandomiseStudentOrder()
+        public double RandomiseStudentOrder()
         {
             List<Student> students = _dataProvider.GetStudents();
-            double randomNumber = this._randomNumberProvider.GetRandomNumber();
+            // in this particular case is just to demonstrate how easy is if we want return always 100 from random generator
+            double randomNumber = this._randomNumberProvider.GetRandomNumber(100,100);
             // randomize students..
             // just for test purposes and simple example
-            return string.Empty;
+            //return string.Empty;
+            return randomNumber;
         }
     }
 }

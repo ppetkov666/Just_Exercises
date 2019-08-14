@@ -5,7 +5,7 @@
     using System.Text;
     public class RandomProvider : IRandomNumberProvider
     {
-        //wrap this clas into Interface
+        //wrap this class Random in RandomProvider into Interface
         private static readonly Random random = new Random();
 
         public int GetRandomNumber(int min = 0, int max = int.MaxValue)

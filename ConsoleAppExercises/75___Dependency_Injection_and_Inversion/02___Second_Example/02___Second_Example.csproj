@@ -6,4 +6,8 @@
     <RootNamespace>_02___Second_Example</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Ninject" Version="3.3.4" />
+  </ItemGroup>
+
 </Project>

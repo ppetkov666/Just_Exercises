@@ -9,9 +9,9 @@
         {
             return new List<Student>
             {
-                new Student{ Name = "petko" , Age = 30},
-                new Student{ Name = "ivan" , Age = 31},
-                new Student{ Name = "georgi" , Age = 33}
+                new Student{ Name = "petkoV1" , Age = 15},
+                new Student{ Name = "ivanV1" , Age = 16},
+                new Student{ Name = "georgiV1" , Age = 17}
             };
         }
     }
