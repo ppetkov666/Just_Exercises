@@ -54,3 +54,17 @@ C:\Users\predator\source\repos\02___ConvertApp\01___ConvertApplication\obj\Debug
 C:\Users\predator\source\repos\02___ConvertApp\01___ConvertApplication\obj\Debug\01___ConvertApplication.csproj.CopyComplete
 C:\Users\predator\source\repos\02___ConvertApp\01___ConvertApplication\obj\Debug\ConvertApplication.exe
 C:\Users\predator\source\repos\02___ConvertApp\01___ConvertApplication\obj\Debug\ConvertApplication.pdb
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\bin\Debug\ConvertApplication.exe
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\bin\Debug\ConvertApplication.pdb
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\bin\Debug\CircularProgressBar.dll
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\bin\Debug\WinFormAnimation.dll
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\bin\Debug\CircularProgressBar.xml
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\bin\Debug\WinFormAnimation.xml
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\obj\Debug\01___ConvertApplication.csprojAssemblyReference.cache
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\obj\Debug\ConvertApplication.MainForm.resources
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\obj\Debug\ConvertApplication.Properties.Resources.resources
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\obj\Debug\01___ConvertApplication.csproj.GenerateResource.cache
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\obj\Debug\01___ConvertApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\obj\Debug\01___ConvertApplication.csproj.CopyComplete
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\obj\Debug\ConvertApplication.exe
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\25___ConvertApp\01___ConvertApplication\obj\Debug\ConvertApplication.pdb

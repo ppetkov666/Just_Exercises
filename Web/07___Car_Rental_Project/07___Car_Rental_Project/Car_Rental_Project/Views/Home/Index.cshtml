@@ -1,0 +1,29 @@
+﻿@model IList<Car_Rental_Project.Models.Cars.ListCarModels>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1 class="text-center">Car Rental System</h1>
+    <!--<p class="text-center">Check your options</p>-->
+    <p class="lead text-center">
+        <a href="/Cars/Create" class="btn btn-primary btn-lg">Add Your Car Here</a>
+        <a href="/Cars/All" class="btn btn-primary btn-lg">Check All Cars</a>
+    </p>
+</div>
+
+
+@foreach (var car in Model)
+    {
+
+        <div class="text-center col-md-6">
+            <h2>@car.Make @car.Model (@car.Year)</h2>
+            <h2>@car.DailyPrice BGN per day</h2>
+            <p>
+                <a class="btn btn-default" href="/Cars/Details/@car.Id">
+                    <img src="@car.ImageUrl" height="300" width="500" />
+
+                </a>
+            </p>
+        </div>
+    }

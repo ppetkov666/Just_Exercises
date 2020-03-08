@@ -1,0 +1,22 @@
+﻿
+<div class="navbar navbar-inverse  navbar-fixed-top" id="RedMenu">
+    <div class="container" style="font-size:110%; font-family:verdana; ">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <ul class="nav navbar-nav">
+                <li> @Html.ActionLink("Car Rental System", "Index", "Home")</li>
+            </ul>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Add Car", "Create", "Cars")</li>
+                <li>@Html.ActionLink("All Cars", "All", "Cars")</li>
+            </ul>
+            @Html.Partial("_LoginPartial")
+        </div>
+    </div>
+</div>

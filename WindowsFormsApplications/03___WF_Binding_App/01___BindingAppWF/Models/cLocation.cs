@@ -12,9 +12,8 @@
     {
        
         private const string cnBusy = "Busy";
-        private const string cnAvailable = "Available";
-        private const string cnUnknown = "Unknown";
-        private string m_occupancyName = cnUnknown;
+        private const string cnAvailable = "Available";        
+        private string m_occupancyName = "Unknown";
         private Boolean? m_occupancy = null;
 
         public Boolean? LocationOccupancy
@@ -33,7 +32,7 @@
                 m_occupancy = value;
 
                 OccupancyName = ((bool)m_occupancy ? cnBusy : cnAvailable);
-                OnPropertyChanged("LocationOccupancy");
+                //OnPropertyChanged("LocationOccupancy");
             }
         }
 
@@ -53,7 +52,7 @@
                     return;
                 }
                 m_occupancyName = value;
-                OnPropertyChanged("OccupancyName");
+                //OnPropertyChanged("OccupancyName");
             }
         }
         public event PropertyChangedEventHandler PropertyChanged;

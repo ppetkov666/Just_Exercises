@@ -38,3 +38,13 @@ C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\01
 C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\01___BindingDataWindowsFormsApp\obj\Debug\01___BindingDataWindowsFormsApp.csproj.CoreCompileInputs.cache
 C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\01___BindingDataWindowsFormsApp\obj\Debug\BindingDataWindowsFormsApp.exe
 C:\Users\predator\Desktop\Office\VisualStudio\03___BindingDataWindowsFormsApp\01___BindingDataWindowsFormsApp\obj\Debug\BindingDataWindowsFormsApp.pdb
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\bin\Debug\BindingDataWindowsFormsApp.exe.config
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\bin\Debug\BindingDataWindowsFormsApp.exe
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\bin\Debug\BindingDataWindowsFormsApp.pdb
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\obj\Debug\01___BindingDataWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\obj\Debug\BindingDataWindowsFormsApp.FrmLocation.resources
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\obj\Debug\BindingDataWindowsFormsApp.Properties.Resources.resources
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\obj\Debug\01___BindingDataWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\obj\Debug\01___BindingDataWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\obj\Debug\BindingDataWindowsFormsApp.exe
+C:\Users\user\Desktop\git\Just_Exercises\WindowsFormsApplications\03___WF_Binding_App\01___BindingAppWF\obj\Debug\BindingDataWindowsFormsApp.pdb

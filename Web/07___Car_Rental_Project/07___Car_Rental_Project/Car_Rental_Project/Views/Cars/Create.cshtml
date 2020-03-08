@@ -1,0 +1,140 @@
+﻿@*@using Car_Rental_Project.Models.Cars
+    @model Car_Rental_Project.Models.Cars.CarModelDetails
+
+    just to demontrate the minuses of this approach
+    <h2>@( ((CarModelDetails)ViewData["Car"]).ImageUrl)</h2>*@
+
+
+@model Car_Rental_Project.Models.Cars.CreateCarModel
+
+@{
+    ViewBag.Title = "Add car for rent";
+}
+
+@*@using (Html.BeginForm("Create", "Cars", FormMethod.Post))
+    {
+        @Html.EditorForModel()
+
+        <div>
+            @Html.LabelFor(m => m.EngineType)
+        </div>
+        <div>
+            @Html.EnumDropDownListFor(m => m.EngineType)
+        </div>
+        <br />
+        <div>
+            <input type="submit" class="btn btn-primary" value="Save Car" />
+        </div>
+    }*@
+
+<div class="container">
+    <div class="well">
+        <h2 class="text-info">Add Car For Rent</h2>
+        @using (Html.BeginForm("Create", "Cars", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal" }))
+        {
+            <div>
+                @{
+                    List<SelectListItem>
+                        yearsOptions = new List<SelectListItem>
+                            {
+                                        new SelectListItem{Text = "Select Year", Value = "Select Year", Selected = true}
+                            };
+                    for (int i = int.Parse(DateTime.Now.Year.ToString()); i >= 1990; i--)
+                    {
+                        yearsOptions.Add(new SelectListItem
+                        {
+                            Text = i.ToString(),
+                            Value = i.ToString()
+                        });
+                    }
+                }
+            </div>
+
+            
+            @Html.ValidationSummary(true, "Pease fix the errors before proceeding!", new { @class = "text-danger" })
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.Make, new { @class = "control-label col-sm-4" })
+                <div class="col-sm-4">
+                    @Html.TextBoxFor(m => m.Make, new { @class = "form-control" })
+                    @* validation could be done with unordered list of validation messages OR in this way too *@
+                    @Html.ValidationMessageFor(m => m.Make)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Model, new { @class = "control-label col-sm-4" })
+                <div class="col-sm-4">
+                    @Html.TextBoxFor(m => m.Model, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Model)
+
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Year, new { @class = "control-label col-sm-4" })
+                <div class="col-sm-4">
+                    @* i just comment different ways to be done*@
+                    @Html.DropDownList("Year", yearsOptions, new { @class = "form-control", style = "width: 280px" })
+                    @* validation could be done with unordered list of validation messages OR in this way too *@
+                    @Html.ValidationMessageFor(m => m.Year)
+
+                    @*@Html.TextBoxFor(m => m.Year, new { @class = "form-control" })*@
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Power, new { @class = "control-label col-sm-4" })
+                <div class="col-sm-4">
+                    @Html.TextBoxFor(m => m.Power, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Engine, new { @class = "control-label col-sm-4" })
+                <div class="col-sm-4">
+                    @Html.TextBoxFor(m => m.Engine, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Color, new { @class = "control-label col-sm-4" })
+                <div class="col-sm-4">
+                    @Html.TextBoxFor(m => m.Color, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.PricePerDay, new { @class = "control-label col-sm-4" })
+                <div class="col-sm-4">
+                    @Html.TextBoxFor(m => m.PricePerDay, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.ImageUrl, new { @class = "control-label col-sm-4" })
+                <div class="col-sm-4">
+                    @Html.TextBoxFor(m => m.ImageUrl, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.ImageUrl)
+
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.EngineType, new { @class = "control-label col-sm-4" })
+                <div class="col-sm-4">
+                    @Html.EnumDropDownListFor(m => m.EngineType, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+
+                <div class="col-sm-4 col-sm-offset-4">
+                    @Html.AntiForgeryToken()
+                    <button type="submit" class="btn btn-primary" style='width:280px'>Save Car</button>
+                    @*<input type="submit" class="btn btn-primary" style='width:300px' value="Save Car" />*@
+                    <div>
+                        <br />
+                        @Html.ActionLink("Cancel", "Index", "Home", null, new { @class = "btn btn-danger", style = "width:280px" })
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

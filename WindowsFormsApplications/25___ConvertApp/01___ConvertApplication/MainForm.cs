@@ -236,5 +236,10 @@ namespace ConvertApplication
             }
             return allFiles;
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

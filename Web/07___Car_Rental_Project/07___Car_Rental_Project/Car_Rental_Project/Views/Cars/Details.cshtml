@@ -1,0 +1,87 @@
+﻿@model Car_Rental_Project.Models.Cars.CarModelDetails
+
+@{
+    ViewBag.Title = "Cars";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model.IsRented)
+{
+    <h2 class="text-center text-warning">This car is already rented!</h2>
+}
+
+<div class="row mt-60">
+    <div class="col-md-4 ">
+        <img src="@Model.ImageUrl" class="img-responsive " @(Model.IsRented ? "style=opacity:0.3" : string.Empty) />
+    </div>
+    <div class="col-md-4">
+        <h2 class="car-details">@Model.Make @Model.Model @(Model.Color != null ? Model.Color : string.Empty)</h2>
+        <h3>@Model.Year - @Model.PricePerDay (In BG Lev per day)</h3>
+        <h3>@Model.TotalRents Total Rents</h3>
+        <p class="lead">
+            <a href="mailto:@Model.ContactInfo">@Model.ContactInfo</a>
+            <div class="row">
+                <a class="btn btn-primary" href="/Cars/All?user=@Model.ContactInfo">See All Cars By This User</a>
+            </div>
+        </p>
+    </div>
+    <div class="col-md-4">
+        <p class="lead">
+            @Model.Engine.ToString("F1")l @Model.EngineType
+        </p>
+    </div>
+    <div class="col-md-4">
+        <p class="lead">
+            @if (Model.Power != null)
+            {
+                <span>@Model.Power hp.</span>
+            }
+        </p>
+        <p>
+            @{
+                List<SelectListItem> options = new List<SelectListItem>
+                                 {
+                                   new SelectListItem{Text = "1", Value = "1", Selected = true}
+                                 };
+                for (int i = 2; i <= 10; i++)
+                {
+                    options.Add(new SelectListItem
+                    {
+                        Text = i.ToString(),
+                        Value = i.ToString()
+                    });
+                }
+            }
+
+            @if (Model.ContactInfo != this.User.Identity.Name)
+            {
+                using (Html.BeginForm("Rent", "Cars", FormMethod.Get))
+                {
+                    // we send it in this way because  the action Rent(RentCarModel rentCarModel) use parameter of class RentCarModel and
+                    // Model.Id assing the Id to the property CarId
+                    // this is why in some cases we use Hidden and in Other cases we use HiddenFor
+                    //(Model.Id != null)? Model.Id : 0 - this type of check is when the data type is nullable
+                    @Html.Hidden("CarId", Model.Id);
+
+                    <span> Rent this car for @Html.DropDownList("Days", options, new { @class = "form-forizontal", style = "width: 50px" }) days!</span>
+                    <br />
+
+                    <button typeof="submit" class="btn btn-primary" onclick="return confirm('Click OK if you have valid Driver License')"
+                            @(Model.IsRented ? "disabled" : string.Empty)>
+                        Rent
+                    </button>
+                }
+            }
+            @if (User.Identity.IsAuthenticated && !Model.IsRented && Model.ContactInfo == this.User.Identity.Name)
+            {
+                <div>
+                    @Html.ActionLink("Edit", "Edit", "Cars", new { @id = Model.Id }, new { @class = "btn btn-success btn-xs", style = "width: 150px" })
+                    @Html.ActionLink("Delete", "Delete", "Cars", new { @id = Model.Id }, new { @class = "btn btn-danger btn-xs", style = "width: 150px" })
+                </div>
+            }
+        </p>
+    </div>
+</div>
+
+
+

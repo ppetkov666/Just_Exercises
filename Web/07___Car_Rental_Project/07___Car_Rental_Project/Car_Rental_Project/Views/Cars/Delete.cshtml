@@ -1,0 +1,19 @@
+﻿@model Car_Rental_Project.Data.Car
+
+<h1 class="text-center">Are you sure you want to delete @Model.Make @Model.Model? </h1>
+
+<div class="row">
+    <div class="col-md-4 col-md-offset-4">
+        <img src="@Model.ImageUrl" class="img-responsive" />
+    </div>
+</div>
+
+@using (Html.BeginForm("Delete", "Cars", FormMethod.Post))
+{
+    @Html.HiddenFor(c => c.Id)
+
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Delete" />
+        <a href="/Cars/Details/@Model.Id" class="btn btn-default"><< Back</a>
+    </div>
+}
